@@ -1,0 +1,56 @@
+{
+  "release1": {
+    "pairs_below_0_57_vdw": 0,
+    "minimum_vdw_fraction": 0.594578623145302,
+    "nearest_scaled_pair_one_based": [
+      130,
+      140
+    ],
+    "pair_distance_A": 1.4269886955487245
+  },
+  "release2": {
+    "pairs_below_0_57_vdw": 0,
+    "minimum_vdw_fraction": 0.594578623145302,
+    "nearest_scaled_pair_one_based": [
+      130,
+      140
+    ],
+    "pair_distance_A": 1.4269886955487245
+  },
+  "release3": {
+    "pairs_below_0_57_vdw": 0,
+    "minimum_vdw_fraction": 0.594578623145302,
+    "nearest_scaled_pair_one_based": [
+      130,
+      140
+    ],
+    "pair_distance_A": 1.4269886955487245
+  },
+  "water1": {
+    "pairs_below_0_57_vdw": 0,
+    "minimum_vdw_fraction": 0.6397049945387445,
+    "nearest_scaled_pair_one_based": [
+      40,
+      157
+    ],
+    "pair_distance_A": 1.6568359358553482
+  },
+  "water2": {
+    "pairs_below_0_57_vdw": 0,
+    "minimum_vdw_fraction": 0.6958050160652073,
+    "nearest_scaled_pair_one_based": [
+      90,
+      151
+    ],
+    "pair_distance_A": 2.2404921517299674
+  },
+  "water3": {
+    "pairs_below_0_57_vdw": 0,
+    "minimum_vdw_fraction": 0.6443957118728736,
+    "nearest_scaled_pair_one_based": [
+      80,
+      133
+    ],
+    "pair_distance_A": 2.1393937634179405
+  }
+}
