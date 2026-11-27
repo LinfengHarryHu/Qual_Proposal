@@ -1,0 +1,108 @@
+{
+  "timestamp_local": "2026-11-26T17:28:04-08:00",
+  "source_files": {
+    "gas": {
+      "path": "archive/zno_proposal/analysis/koskela_2to3_75c_2026-11-17/state2_opt.xyz",
+      "sha256": "857d6560b88ecf24ef755ee894bb4968fcfd8c8eedfb8d93fdca13823b12d017"
+    },
+    "pcm": {
+      "path": "archive/zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/state2.xyz",
+      "sha256": "8ee224997bc6275e77e5a28505a803fc64ef75cdd249ad1e0b328ebb9b4f088b"
+    }
+  },
+  "frozen_atom_ids": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "frozen_rmsd_A": 7.798526513634492e-16,
+  "phenyl_heavy_rmsd_A": 2.1382569483103486,
+  "phenyl_plane_angle_degrees": 57.95892788765275,
+  "MeIm_ring_rmsd_A": 0.18794584300978814,
+  "MeIm_plane_angle_degrees": 5.599401425983153,
+  "geometry": {
+    "gas": {
+      "Zn1_S25_A": 2.3669284577823753,
+      "Zn1_N38_A": 2.129129883067951,
+      "phenyl_center_to_cage_center_A": 5.618423421909273,
+      "minimum_phenyl_C_to_frozen_cage_atom_A": 3.314438122702837
+    },
+    "pcm": {
+      "Zn1_S25_A": 2.404838001474723,
+      "Zn1_N38_A": 2.1464262451185783,
+      "phenyl_center_to_cage_center_A": 6.882613704302255,
+      "minimum_phenyl_C_to_frozen_cage_atom_A": 3.908661281368017
+    }
+  },
+  "dispersion": {
+    "gas": {
+      "total_Eh": -0.2066403814043855,
+      "total_kJ_mol": -542.5342468792238,
+      "pair_groups_kJ_mol": {
+        "oxide_and_hydroxyl_H / oxide_and_hydroxyl_H": -335.7960930863681,
+        "oxide_and_hydroxyl_H / thiophenolate": -66.8390136883525,
+        "oxide_and_hydroxyl_H / MeIm": -31.068279398866547,
+        "thiophenolate / thiophenolate": -60.566376249300305,
+        "thiophenolate / MeIm": -6.825762556512265,
+        "MeIm / MeIm": -41.43872189982427
+      }
+    },
+    "pcm": {
+      "total_Eh": -0.19728779071137587,
+      "total_kJ_mol": -517.9790233865231,
+      "pair_groups_kJ_mol": {
+        "oxide_and_hydroxyl_H / oxide_and_hydroxyl_H": -335.0759031632773,
+        "oxide_and_hydroxyl_H / thiophenolate": -41.873576029533666,
+        "oxide_and_hydroxyl_H / MeIm": -31.22253067376453,
+        "thiophenolate / thiophenolate": -60.68105297387438,
+        "thiophenolate / MeIm": -7.6646708511877835,
+        "MeIm / MeIm": -41.46128969488529
+      }
+    }
+  },
+  "D3_pcm_minus_gas_kJ_mol": 24.555223492700748,
+  "D3_pair_group_differences_kJ_mol": {
+    "oxide_and_hydroxyl_H / oxide_and_hydroxyl_H": 0.7201899230907998,
+    "oxide_and_hydroxyl_H / thiophenolate": 24.96543765881883,
+    "oxide_and_hydroxyl_H / MeIm": -0.15425127489798385,
+    "thiophenolate / thiophenolate": -0.11467672457407474,
+    "thiophenolate / MeIm": -0.8389082946755186,
+    "MeIm / MeIm": -0.022567795061014806
+  },
+  "D3_native_crosscheck": "Pairwise sums reproduce archived gas D3 and native Q-Chem PCM D3 within output precision.",
+  "camera": {
+    "eye": [
+      0.2414022747926338,
+      -0.09656090991705353,
+      0.9656090991705352
+    ],
+    "up": [
+      0.02341946064080962,
+      0.9953270772344087,
+      0.09367784256323848
+    ],
+    "position": [
+      10.172269913849146,
+      -4.107553150110835,
+      48.82696514954658
+    ],
+    "fov": 6.369424402323397
+  }
+}
