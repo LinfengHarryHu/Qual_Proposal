@@ -1,0 +1,52 @@
+{
+  "species": {
+    "state2": {
+      "electrons": 558,
+      "reaction_sign": -1,
+      "gas_Eh": "-23148.58702305",
+      "pcm_Eh": "-23148.67753012",
+      "change_Eh": "-0.09050707",
+      "change_kJ_mol": -237.62627961194772,
+      "gas_minus_archived_Eh": "1E-8",
+      "gas_output": "koskela_2to3_acetonitrile_pcm_2026-11-18/job-7055343/state2-gas-7055343.out",
+      "pcm_output": "job-7055343/state2-7055343.out"
+    },
+    "state3": {
+      "electrons": 606,
+      "reaction_sign": 1,
+      "gas_Eh": "-23702.34373117",
+      "pcm_Eh": "-23702.44039100",
+      "change_Eh": "-0.09665983",
+      "change_kJ_mol": -253.78034877080137,
+      "gas_minus_archived_Eh": "1E-8",
+      "gas_output": "koskela_2to3_acetonitrile_pcm_2026-11-18/job-7055344/state3-gas-7055344.out",
+      "pcm_output": "job-7055344/state3-7055344.out"
+    },
+    "phsh": {
+      "electrons": 58,
+      "reaction_sign": -1,
+      "gas_Eh": "-630.16329151",
+      "pcm_Eh": "-630.16590360",
+      "change_Eh": "-0.00261209",
+      "change_kJ_mol": -6.85804135203551,
+      "gas_minus_archived_Eh": "0E-8",
+      "gas_output": "koskela_2to3_75c_2026-11-17/job-7048721/phsh-7048721.out",
+      "pcm_output": "job-7055336/phsh-7055336.out"
+    },
+    "water": {
+      "electrons": 10,
+      "reaction_sign": 1,
+      "gas_Eh": "-76.35830495",
+      "pcm_Eh": "-76.36328756",
+      "change_Eh": "-0.00498261",
+      "change_kJ_mol": -13.08184075627779,
+      "gas_minus_archived_Eh": "0E-8",
+      "gas_output": "koskela_2to3_75c_2026-11-17/job-7048721/water-7048721.out",
+      "pcm_output": "job-7055336/water-7055336.out"
+    }
+  },
+  "reaction_solvation_shift_Eh": "-0.00852328",
+  "reaction_solvation_shift_kJ_mol": -22.37786856309592,
+  "gas_reaction_Gibbs_kJ_mol": 133.3566,
+  "pcm_corrected_reaction_Gibbs_kJ_mol": 110.97873143690408
+}
