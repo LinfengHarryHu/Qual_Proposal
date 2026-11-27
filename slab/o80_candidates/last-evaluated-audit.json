@@ -1,0 +1,77 @@
+{
+  "A": {
+    "job": 7075346,
+    "qe_time_limit": true,
+    "ionic_converged": false,
+    "evaluated_resume_frames": 16,
+    "last_bfgs_update": 30,
+    "nat": 170,
+    "frozen": 48,
+    "energy_Ry": -30722.11303988,
+    "max_active_force_Ry_bohr": 0.01788900908221861,
+    "max_active_component_Ry_bohr": 0.0163378,
+    "max_active_force_eV_A": 0.459944916055226,
+    "distances_A": {
+      "20-65": 2.006700237511079,
+      "20-75": 1.9665822856297754,
+      "20-80": 2.4128158293389554,
+      "80-157": 0.9786573953113524,
+      "80-158": 2.5154774352594864,
+      "133-158": 1.3571178770027141,
+      "20-145": 2.1053337096514233,
+      "20-159": 5.2715966522975215
+    },
+    "nearest_remaining_lattice_O_A": 1.9665822856297754,
+    "nearest_remaining_lattice_O_atom": 75
+  },
+  "B": {
+    "job": 7075343,
+    "qe_time_limit": true,
+    "ionic_converged": false,
+    "evaluated_resume_frames": 16,
+    "last_bfgs_update": 31,
+    "nat": 170,
+    "frozen": 48,
+    "energy_Ry": -30722.04165344,
+    "max_active_force_Ry_bohr": 0.013650324700907301,
+    "max_active_component_Ry_bohr": 0.01070507,
+    "max_active_force_eV_A": 0.35096395892190657,
+    "distances_A": {
+      "20-65": 2.1236242719281746,
+      "20-75": 2.136916498967377,
+      "20-80": 5.033988792799065,
+      "80-157": 0.9701751540525441,
+      "80-158": 0.9784797400252979,
+      "133-158": 3.7780471256286954,
+      "20-145": 2.127175516335537,
+      "20-159": 4.7140058778861995
+    },
+    "nearest_remaining_lattice_O_A": 2.1236242719281746,
+    "nearest_remaining_lattice_O_atom": 65
+  },
+  "C": {
+    "job": 7075553,
+    "qe_time_limit": true,
+    "ionic_converged": false,
+    "evaluated_resume_frames": 18,
+    "last_bfgs_update": 35,
+    "nat": 170,
+    "frozen": 48,
+    "energy_Ry": -30722.17101705,
+    "max_active_force_Ry_bohr": 0.00707298524832337,
+    "max_active_component_Ry_bohr": 0.00574493,
+    "max_active_force_eV_A": 0.18185376234917097,
+    "distances_A": {
+      "20-65": 7.255949411650041,
+      "20-75": 7.81654317439393,
+      "20-80": 5.411603814374624,
+      "80-157": 0.9779969685644705,
+      "80-158": 0.9689030855090116,
+      "133-158": 3.8547715955421666,
+      "20-145": 2.0815216562697203,
+      "20-159": 2.0525900389978475
+    },
+    "nearest_remaining_lattice_O_A": 5.786709390569181,
+    "nearest_remaining_lattice_O_atom": 110
+  }
+}
