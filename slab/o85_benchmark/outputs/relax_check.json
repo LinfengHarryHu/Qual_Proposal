@@ -1,0 +1,7 @@
+{
+  "job": 7055128,
+  "fixed_atoms": 48,
+  "bfgs_steps": 22,
+  "max_active_force_component_Ry_per_bohr": 0.00108,
+  "converged": true
+}
