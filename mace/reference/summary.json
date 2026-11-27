@@ -1,0 +1,51 @@
+{
+  "reference_structures": {
+    "water": "water1",
+    "release": "release1"
+  },
+  "force_observables": {
+    "water": "H158 along S133 to O85",
+    "release": "sum of complex forces along +z"
+  },
+  "checkpoint": "archive/hpc/08_zno_pbc_path_dataset_2026-11-20/mace_finetune_2026-11-20/run-7065452/models/zno_mh1_pilot.model",
+  "groups": {
+    "water": {
+      "n": 4,
+      "relative_eV": {
+        "original_mae": 0.16832203044725702,
+        "tuned_mae": 0.29135369704923164,
+        "absolute_improvement": -0.12303166660197462,
+        "improvement_percent": -73.09302666743082
+      },
+      "directional_eV_A": {
+        "original_mae": 0.409024928284657,
+        "tuned_mae": 0.10661048475855586,
+        "absolute_improvement": 0.30241444352610114,
+        "improvement_percent": 73.9354554242813
+      },
+      "direction_sign_matches": {
+        "original": 4,
+        "tuned": 4
+      }
+    },
+    "release": {
+      "n": 4,
+      "relative_eV": {
+        "original_mae": 0.3060018361644836,
+        "tuned_mae": 0.16924648226432737,
+        "absolute_improvement": 0.13675535390015625,
+        "improvement_percent": 44.69102395406767
+      },
+      "directional_eV_A": {
+        "original_mae": 0.4742879703570003,
+        "tuned_mae": 0.4705846803635421,
+        "absolute_improvement": 0.003703289993458203,
+        "improvement_percent": 0.7808104411062167
+      },
+      "direction_sign_matches": {
+        "original": 4,
+        "tuned": 4
+      }
+    }
+  }
+}

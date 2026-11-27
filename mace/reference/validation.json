@@ -1,0 +1,474 @@
+{
+  "head": "oc20_usemppbe",
+  "learning_rate": 2e-05,
+  "offsets_eV": {
+    "water": -415641.08608740836,
+    "release": -417218.02123514
+  },
+  "validation_baseline": {
+    "groups": {
+      "water": {
+        "relative_energy_MAE_eV": 0.11599540710449219,
+        "directional_force_MAE_eV_A": 0.21951905428431928
+      },
+      "release": {
+        "relative_energy_MAE_eV": 0.1377149040316358,
+        "directional_force_MAE_eV_A": 0.1787394103076723
+      }
+    },
+    "score": 0.3259843878640598,
+    "all_atom_force_RMSE_eV_A": 0.09110384989864867
+  },
+  "best_epoch": 27,
+  "epochs_completed": 28,
+  "history": [
+    {
+      "epoch": 1,
+      "training_loss": 0.22192937184479974,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.074432373046875,
+          "directional_force_MAE_eV_A": 0.2336640348075889
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.06881600839120369,
+          "directional_force_MAE_eV_A": 0.1307485525806745
+        }
+      },
+      "score": 0.253830484413171,
+      "all_atom_force_RMSE_eV_A": 0.08392913691632682
+    },
+    {
+      "epoch": 2,
+      "training_loss": 0.11162270445908819,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.10573816299438477,
+          "directional_force_MAE_eV_A": 0.24202799086924642
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.044022171585648154,
+          "directional_force_MAE_eV_A": 0.10131674880782764
+        }
+      },
+      "score": 0.2465525371285535,
+      "all_atom_force_RMSE_eV_A": 0.08248775870628577
+    },
+    {
+      "epoch": 3,
+      "training_loss": 0.08366322872184571,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.08046340942382812,
+          "directional_force_MAE_eV_A": 0.23292691085953265
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.05149106626157407,
+          "directional_force_MAE_eV_A": 0.11193566521008809
+        }
+      },
+      "score": 0.23840852587751146,
+      "all_atom_force_RMSE_eV_A": 0.06750090562536916
+    },
+    {
+      "epoch": 4,
+      "training_loss": 0.040674290331524046,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.07485771179199219,
+          "directional_force_MAE_eV_A": 0.2058848689775914
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.02685998987268519,
+          "directional_force_MAE_eV_A": 0.10107480734586716
+        }
+      },
+      "score": 0.20433868899406796,
+      "all_atom_force_RMSE_eV_A": 0.0613353927264586
+    },
+    {
+      "epoch": 5,
+      "training_loss": 0.0471160354846645,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.0675210952758789,
+          "directional_force_MAE_eV_A": 0.2003767832648009
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.0237841194058642,
+          "directional_force_MAE_eV_A": 0.09694318721691768
+        }
+      },
+      "score": 0.19431259258173084,
+      "all_atom_force_RMSE_eV_A": 0.05738420955369371
+    },
+    {
+      "epoch": 6,
+      "training_loss": 0.036043239890464714,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.0710153579711914,
+          "directional_force_MAE_eV_A": 0.1937270131893456
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.01905201099537037,
+          "directional_force_MAE_eV_A": 0.09661519196298388
+        }
+      },
+      "score": 0.19020478705944563,
+      "all_atom_force_RMSE_eV_A": 0.055314768961113626
+    },
+    {
+      "epoch": 7,
+      "training_loss": 0.04070318654356968,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.06679153442382812,
+          "directional_force_MAE_eV_A": 0.1875037143472582
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.026132089120370374,
+          "directional_force_MAE_eV_A": 0.10510820605688626
+        }
+      },
+      "score": 0.1927677719741715,
+      "all_atom_force_RMSE_eV_A": 0.05241243426254268
+    },
+    {
+      "epoch": 8,
+      "training_loss": 0.030259536002718267,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.06642818450927734,
+          "directional_force_MAE_eV_A": 0.18352852331008762
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.01878225067515432,
+          "directional_force_MAE_eV_A": 0.10086183870832126
+        }
+      },
+      "score": 0.18480039860142028,
+      "all_atom_force_RMSE_eV_A": 0.0508394296893836
+    },
+    {
+      "epoch": 9,
+      "training_loss": 0.02294725270587064,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.0611109733581543,
+          "directional_force_MAE_eV_A": 0.1822966099716723
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.02528663917824074,
+          "directional_force_MAE_eV_A": 0.10579890012741089
+        }
+      },
+      "score": 0.18724656131773912,
+      "all_atom_force_RMSE_eV_A": 0.050213531680385615
+    },
+    {
+      "epoch": 10,
+      "training_loss": 0.04265645849296734,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.06711578369140625,
+          "directional_force_MAE_eV_A": 0.1804650656413287
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.01925094039351852,
+          "directional_force_MAE_eV_A": 0.09825178649690416
+        }
+      },
+      "score": 0.1825417881115788,
+      "all_atom_force_RMSE_eV_A": 0.04830583648482393
+    },
+    {
+      "epoch": 11,
+      "training_loss": 0.0429644348942453,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.06262493133544922,
+          "directional_force_MAE_eV_A": 0.1804369669407606
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.02048972800925926,
+          "directional_force_MAE_eV_A": 0.09663702050844829
+        }
+      },
+      "score": 0.1800943233969587,
+      "all_atom_force_RMSE_eV_A": 0.04791279997869348
+    },
+    {
+      "epoch": 12,
+      "training_loss": 0.0302471258854937,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.06808280944824219,
+          "directional_force_MAE_eV_A": 0.17133177444338799
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.02035108024691358,
+          "directional_force_MAE_eV_A": 0.09368752398424679
+        }
+      },
+      "score": 0.17672659406139526,
+      "all_atom_force_RMSE_eV_A": 0.0474475785227875
+    },
+    {
+      "epoch": 13,
+      "training_loss": 0.024288666146319537,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.06278610229492188,
+          "directional_force_MAE_eV_A": 0.16722976719029248
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.016640745563271605,
+          "directional_force_MAE_eV_A": 0.07298165394200219
+        }
+      },
+      "score": 0.15981913449524407,
+      "all_atom_force_RMSE_eV_A": 0.04686031814654602
+    },
+    {
+      "epoch": 14,
+      "training_loss": 0.01951318802977247,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.05756378173828125,
+          "directional_force_MAE_eV_A": 0.16465007280930877
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.01776198398919753,
+          "directional_force_MAE_eV_A": 0.07750222211082776
+        }
+      },
+      "score": 0.15873903032380765,
+      "all_atom_force_RMSE_eV_A": 0.04593246772137824
+    },
+    {
+      "epoch": 15,
+      "training_loss": 0.026566852649141635,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.057837486267089844,
+          "directional_force_MAE_eV_A": 0.16250162292271852
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.023469147858796297,
+          "directional_force_MAE_eV_A": 0.0835699728793568
+        }
+      },
+      "score": 0.16368911496398073,
+      "all_atom_force_RMSE_eV_A": 0.04605591781007878
+    },
+    {
+      "epoch": 16,
+      "training_loss": 0.017737400967494717,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.05837583541870117,
+          "directional_force_MAE_eV_A": 0.15781285520642996
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.01568377459490741,
+          "directional_force_MAE_eV_A": 0.06348626067241032
+        }
+      },
+      "score": 0.14767936294622444,
+      "all_atom_force_RMSE_eV_A": 0.04526913028871852
+    },
+    {
+      "epoch": 17,
+      "training_loss": 0.025863504757927286,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.06024169921875,
+          "directional_force_MAE_eV_A": 0.1558105582371354
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.014472113715277778,
+          "directional_force_MAE_eV_A": 0.057571702947219215
+        }
+      },
+      "score": 0.1440480370591912,
+      "all_atom_force_RMSE_eV_A": 0.0448955909317869
+    },
+    {
+      "epoch": 18,
+      "training_loss": 0.021596886838475864,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.05865669250488281,
+          "directional_force_MAE_eV_A": 0.1534874397329986
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.014431423611111112,
+          "directional_force_MAE_eV_A": 0.05485980295472675
+        }
+      },
+      "score": 0.14071767940185964,
+      "all_atom_force_RMSE_eV_A": 0.04458301697452403
+    },
+    {
+      "epoch": 19,
+      "training_loss": 0.017948290371956926,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.061102867126464844,
+          "directional_force_MAE_eV_A": 0.14897659327834845
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.014949845679012344,
+          "directional_force_MAE_eV_A": 0.04888844614227613
+        }
+      },
+      "score": 0.13695887611305088,
+      "all_atom_force_RMSE_eV_A": 0.04419614059955446
+    },
+    {
+      "epoch": 20,
+      "training_loss": 0.022828346988674076,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.06051015853881836,
+          "directional_force_MAE_eV_A": 0.14887535152956843
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.013754762249228395,
+          "directional_force_MAE_eV_A": 0.047652168199419975
+        }
+      },
+      "score": 0.13539622025851758,
+      "all_atom_force_RMSE_eV_A": 0.043837833100704146
+    },
+    {
+      "epoch": 21,
+      "training_loss": 0.024422921567401362,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.0516204833984375,
+          "directional_force_MAE_eV_A": 0.14322268625255674
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.014013973283179012,
+          "directional_force_MAE_eV_A": 0.04774203751650122
+        }
+      },
+      "score": 0.12829959022533724,
+      "all_atom_force_RMSE_eV_A": 0.04378724668458026
+    },
+    {
+      "epoch": 22,
+      "training_loss": 0.020406422482448675,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.049427032470703125,
+          "directional_force_MAE_eV_A": 0.1454023999394849
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.014258113908179012,
+          "directional_force_MAE_eV_A": 0.04728534072637558
+        }
+      },
+      "score": 0.1281864435223713,
+      "all_atom_force_RMSE_eV_A": 0.043744185823278214
+    },
+    {
+      "epoch": 23,
+      "training_loss": 0.012568807634081514,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.05048370361328125,
+          "directional_force_MAE_eV_A": 0.14182748435996473
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.01383614245756173,
+          "directional_force_MAE_eV_A": 0.04677340450386206
+        }
+      },
+      "score": 0.12646036746733488,
+      "all_atom_force_RMSE_eV_A": 0.0432840534927075
+    },
+    {
+      "epoch": 24,
+      "training_loss": 0.010916216764599085,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.05305004119873047,
+          "directional_force_MAE_eV_A": 0.14182170783169568
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.013378002025462962,
+          "directional_force_MAE_eV_A": 0.044025044267376266
+        }
+      },
+      "score": 0.12613739766163268,
+      "all_atom_force_RMSE_eV_A": 0.04286618241358113
+    },
+    {
+      "epoch": 25,
+      "training_loss": 0.01635307886282958,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.050696372985839844,
+          "directional_force_MAE_eV_A": 0.13789397291839123
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.015719943576388888,
+          "directional_force_MAE_eV_A": 0.04029820217854447
+        }
+      },
+      "score": 0.12230424582958221,
+      "all_atom_force_RMSE_eV_A": 0.04272445689163665
+    },
+    {
+      "epoch": 26,
+      "training_loss": 0.00887235990237622,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.044025421142578125,
+          "directional_force_MAE_eV_A": 0.1373703354038298
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.01693913966049383,
+          "directional_force_MAE_eV_A": 0.03927803018854724
+        }
+      },
+      "score": 0.1188064631977245,
+      "all_atom_force_RMSE_eV_A": 0.04256026918530041
+    },
+    {
+      "epoch": 27,
+      "training_loss": 0.019277113262519595,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.0419917106628418,
+          "directional_force_MAE_eV_A": 0.13900214165914804
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.015285915798611112,
+          "directional_force_MAE_eV_A": 0.03864569848196374
+        }
+      },
+      "score": 0.11746273330128235,
+      "all_atom_force_RMSE_eV_A": 0.042408613208723696
+    },
+    {
+      "epoch": 28,
+      "training_loss": 0.020822024200155977,
+      "groups": {
+        "water": {
+          "relative_energy_MAE_eV": 0.05505180358886719,
+          "directional_force_MAE_eV_A": 0.1384594365954399
+        },
+        "release": {
+          "relative_energy_MAE_eV": 0.012112087673611112,
+          "directional_force_MAE_eV_A": 0.03791498196207815
+        }
+      },
+      "score": 0.12176915490999818,
+      "all_atom_force_RMSE_eV_A": 0.042301540229912483
+    }
+  ]
+}
