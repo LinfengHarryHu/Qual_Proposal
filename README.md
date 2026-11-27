@@ -2,6 +2,8 @@
 
 **Harry Linfeng Hu · USC Chemistry · November 2026**
 
+[Public repository](https://github.com/LinfengHarryHu/Qual_Proposal)
+
 This repository contains the calculations and analysis supporting my qualifying
 proposal on ligand-assisted ZnO dissolution. The chemical question is whether
 zinc remains difficult to release after water has formed at the surface.
@@ -26,9 +28,11 @@ partially relaxed structures must not be read as activation barriers.
 ## Reproduce the analysis
 
 Python 3.11 or later is required (tested with 3.12.14; package versions are in
-`requirements-tested.txt`). From this directory:
+`requirements-tested.txt`). Clone the archive, then run:
 
 ```bash
+git clone https://github.com/LinfengHarryHu/Qual_Proposal.git
+cd Qual_Proposal
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
