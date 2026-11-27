@@ -1,0 +1,1019 @@
+{
+  "date": "2026-11-26",
+  "files": [
+    {
+      "file": "cage/gas/state2.in",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/state2.in",
+      "source_sha256": "d741c9fde68393b9f73b7465f47316de5ab9012da7ef4d93910c57690a9fdab2",
+      "packaged_sha256": "d741c9fde68393b9f73b7465f47316de5ab9012da7ef4d93910c57690a9fdab2",
+      "modified": false
+    },
+    {
+      "file": "cage/gas/state2_opt.xyz",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/state2_opt.xyz",
+      "source_sha256": "857d6560b88ecf24ef755ee894bb4968fcfd8c8eedfb8d93fdca13823b12d017",
+      "packaged_sha256": "857d6560b88ecf24ef755ee894bb4968fcfd8c8eedfb8d93fdca13823b12d017",
+      "modified": false
+    },
+    {
+      "file": "cage/gas/state3.in",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/state3.in",
+      "source_sha256": "fb85dead2816657de3616c29a8f3dc27e92a9820397cba05dc92d768f7c74a4d",
+      "packaged_sha256": "fb85dead2816657de3616c29a8f3dc27e92a9820397cba05dc92d768f7c74a4d",
+      "modified": false
+    },
+    {
+      "file": "cage/gas/state3_opt.xyz",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/state3_opt.xyz",
+      "source_sha256": "8b47cbd47d8a42e7a8f4f7e434ea723cc7a8f6f940d6bc6d7537d06275e6ca0c",
+      "packaged_sha256": "8b47cbd47d8a42e7a8f4f7e434ea723cc7a8f6f940d6bc6d7537d06275e6ca0c",
+      "modified": false
+    },
+    {
+      "file": "cage/gas/phsh.in",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/phsh.in",
+      "source_sha256": "2dd4239f4ecaa014366d64e8555aa0cb5ab01a96a5679964e1ae91192208ff20",
+      "packaged_sha256": "2dd4239f4ecaa014366d64e8555aa0cb5ab01a96a5679964e1ae91192208ff20",
+      "modified": false
+    },
+    {
+      "file": "cage/gas/phsh_opt.xyz",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/phsh_opt.xyz",
+      "source_sha256": "a4fe995f87e89b59f299b531779ef36f97898fbfec14df62e718e955c7092eee",
+      "packaged_sha256": "a4fe995f87e89b59f299b531779ef36f97898fbfec14df62e718e955c7092eee",
+      "modified": false
+    },
+    {
+      "file": "cage/gas/water.in",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/water.in",
+      "source_sha256": "3875bcc10da3ffda7b1afa57dd718c3e1cd9ce259006ec09fdacf76acda8f66f",
+      "packaged_sha256": "3875bcc10da3ffda7b1afa57dd718c3e1cd9ce259006ec09fdacf76acda8f66f",
+      "modified": false
+    },
+    {
+      "file": "cage/gas/water_opt.xyz",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/water_opt.xyz",
+      "source_sha256": "8dd1fe5a10fa9c9d9d870f5d324877680e762766dba81c78058bdce7be4f858f",
+      "packaged_sha256": "8dd1fe5a10fa9c9d9d870f5d324877680e762766dba81c78058bdce7be4f858f",
+      "modified": false
+    },
+    {
+      "file": "cage/gas/job-7049753/state2-7049753.out",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/job-7049753/state2-7049753.out",
+      "source_sha256": "e8f0d8edb40692bf5ba603d80ff0cb2a7881017c64a6f340b18b8044276419ca",
+      "packaged_sha256": "256b9a22bb7e518c123f6b66a5a49ccc391b81a1354b4ec70e2b1fa17efbfcf3",
+      "modified": true
+    },
+    {
+      "file": "cage/gas/job-7049753/state2-7049753.hessian.bin",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/job-7049753/state2-7049753.hessian.bin",
+      "source_sha256": "131b7af077ffe78885a2db183d6712ac2981c470f438d45554bce4a39c1036c1",
+      "packaged_sha256": "131b7af077ffe78885a2db183d6712ac2981c470f438d45554bce4a39c1036c1",
+      "modified": false
+    },
+    {
+      "file": "cage/gas/partial_hessian/state2.in",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/partial_hessian/state2.in",
+      "source_sha256": "e89c4b3f0ca800a54f35bdf15d3cb6224ea2d5b5e438f21069407126f5ab33f6",
+      "packaged_sha256": "e89c4b3f0ca800a54f35bdf15d3cb6224ea2d5b5e438f21069407126f5ab33f6",
+      "modified": false
+    },
+    {
+      "file": "cage/gas/job-7049754/state3-7049754.out",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/job-7049754/state3-7049754.out",
+      "source_sha256": "c90d0677a16733b07647158c57cf1c31904801f975dbfea03668e4ddb99f524c",
+      "packaged_sha256": "5c0692f971f2b10c062266afd4394e464f527817dbef053374800402008e77e9",
+      "modified": true
+    },
+    {
+      "file": "cage/gas/job-7049754/state3-7049754.hessian.bin",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/job-7049754/state3-7049754.hessian.bin",
+      "source_sha256": "4e0f0e53d15238d71b37fb2e411514a253dd758a1c45cde0bf87224d23c5d0c3",
+      "packaged_sha256": "4e0f0e53d15238d71b37fb2e411514a253dd758a1c45cde0bf87224d23c5d0c3",
+      "modified": false
+    },
+    {
+      "file": "cage/gas/partial_hessian/state3.in",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/partial_hessian/state3.in",
+      "source_sha256": "7a56340ee091360377af86c0efb0d55041ab58a44210c8f06bf016a83911ea53",
+      "packaged_sha256": "7a56340ee091360377af86c0efb0d55041ab58a44210c8f06bf016a83911ea53",
+      "modified": false
+    },
+    {
+      "file": "cage/gas/job-7048721/phsh-7048721.out",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/job-7048721/phsh-7048721.out",
+      "source_sha256": "b675c21b9b49cde2cfeb973a0e743459f63df3cda9baafc299814770304ebbb2",
+      "packaged_sha256": "d91e703c72987eb6d5725578dac0ec9c9c5994fcc927b1ad1e07333e64e2a127",
+      "modified": true
+    },
+    {
+      "file": "cage/gas/job-7048721/water-7048721.out",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/job-7048721/water-7048721.out",
+      "source_sha256": "db9eed117735c1d31667d138b27b8c02132ffc1d902b78338cf8ebb2a92cf995",
+      "packaged_sha256": "e2ada8633043247e62e3779c8e6916dde9ba31705aeae49975f418c3f784c803",
+      "modified": true
+    },
+    {
+      "file": "cage/gas/analyze_thermo.py",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/analyze_thermo.py",
+      "source_sha256": "43439e2a809885b1ac8602193284980af73a94456c37f20c59503e1be2a72411",
+      "packaged_sha256": "5bb0ffd75011b9a3ead8cc01c22902327da62bc95bc5236e0fd6b067b62a2b4f",
+      "modified": true
+    },
+    {
+      "file": "cage/gas/validate_active_hessian.py",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/validate_active_hessian.py",
+      "source_sha256": "5f3b668318e65231b58c1266b9bbbc0e8ca02758b2d6047affd25eb8e162cb3a",
+      "packaged_sha256": "18262239d82e68cf5fef16e1267d079eefd2d27071672b0445f6528a421a4909",
+      "modified": true
+    },
+    {
+      "file": "cage/gas/dispersion.json",
+      "source": "zno_proposal/analysis/koskela_2to3_75c_2026-11-17/dispersion_75c_fixed_geometry.json",
+      "source_sha256": "a2f7d22aa5058f2c9513b14e3c47b069d0a8b97ee44084fc40ef3e420636e9fb",
+      "packaged_sha256": "a2f7d22aa5058f2c9513b14e3c47b069d0a8b97ee44084fc40ef3e420636e9fb",
+      "modified": false
+    },
+    {
+      "file": "cage/reference/reaction_ledger.csv",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/reaction_ledger.csv",
+      "source_sha256": "455eba590f2fb0bae456773e4b316f74187ceabdfa654abc00e4961cc7816e29",
+      "packaged_sha256": "455eba590f2fb0bae456773e4b316f74187ceabdfa654abc00e4961cc7816e29",
+      "modified": false
+    },
+    {
+      "file": "cage/reference/species_electronic.csv",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/species_electronic.csv",
+      "source_sha256": "a378a8903261eb250067a61b52df11ebfbf4820cc32c896f34e2784b1ae4fd29",
+      "packaged_sha256": "a378a8903261eb250067a61b52df11ebfbf4820cc32c896f34e2784b1ae4fd29",
+      "modified": false
+    },
+    {
+      "file": "cage/reference/species_thermal.csv",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/species_thermal.csv",
+      "source_sha256": "55ed681791f230054958f618f79311e1077253c0907f6c2efe28f02b85b6de2b",
+      "packaged_sha256": "55ed681791f230054958f618f79311e1077253c0907f6c2efe28f02b85b6de2b",
+      "modified": false
+    },
+    {
+      "file": "cage/si_single_points/state2.in",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/state2.in",
+      "source_sha256": "f58494cd0cb368e789bacc647505524eb9dd21e69c8a8fa497adb287be534c95",
+      "packaged_sha256": "f58494cd0cb368e789bacc647505524eb9dd21e69c8a8fa497adb287be534c95",
+      "modified": false
+    },
+    {
+      "file": "cage/si_single_points/returned/state2-7079211.out",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/returned/state2-7079211.out",
+      "source_sha256": "a09cabf600b9f9bad57149c546a8413c0139892f2e6ea571b3bffd9043616f26",
+      "packaged_sha256": "a801e258ecc1b82af477d960c543469b8faed35cb5cac4637eb8032011cee889",
+      "modified": true
+    },
+    {
+      "file": "cage/si_single_points/returned/state2.in",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/returned/state2.in",
+      "source_sha256": "f58494cd0cb368e789bacc647505524eb9dd21e69c8a8fa497adb287be534c95",
+      "packaged_sha256": "f58494cd0cb368e789bacc647505524eb9dd21e69c8a8fa497adb287be534c95",
+      "modified": false
+    },
+    {
+      "file": "cage/si_baseline/state2.in",
+      "source": "zno_proposal/analysis/koskela_2to3_fixed_sp_2026-11-17/state2.in",
+      "source_sha256": "6865fab2c08154df5ce2751653bddf72611ed160c697f85c5c35d1b291afa62c",
+      "packaged_sha256": "6865fab2c08154df5ce2751653bddf72611ed160c697f85c5c35d1b291afa62c",
+      "modified": false
+    },
+    {
+      "file": "cage/si_baseline/job-7048629/state2-7048629.out",
+      "source": "zno_proposal/analysis/koskela_2to3_fixed_sp_2026-11-17/job-7048629/state2-7048629.out",
+      "source_sha256": "b804ac214119f1a02602f629e3c3980f287d526ed105832049498b2e0e615fa2",
+      "packaged_sha256": "3f2bea5a11c4be15736d9c0f0fad09a2047d6d1c9afa9d03e40f584e46786419",
+      "modified": true
+    },
+    {
+      "file": "cage/si_single_points/state3.in",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/state3.in",
+      "source_sha256": "8737749f438ec0fe720ca8c25dd294e3af70ebbf1eb5ff25b36a05dcabd7aa85",
+      "packaged_sha256": "8737749f438ec0fe720ca8c25dd294e3af70ebbf1eb5ff25b36a05dcabd7aa85",
+      "modified": false
+    },
+    {
+      "file": "cage/si_single_points/returned/state3-7079211.out",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/returned/state3-7079211.out",
+      "source_sha256": "4e4ccb06069f630ab2c5c265a34c784c79caccc4f2e2677c83f56b9484e0276a",
+      "packaged_sha256": "36095fe3d402d4b2845432b1e4a0e0eba2b16239b5f5b2654eb51e09d5536a18",
+      "modified": true
+    },
+    {
+      "file": "cage/si_single_points/returned/state3.in",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/returned/state3.in",
+      "source_sha256": "8737749f438ec0fe720ca8c25dd294e3af70ebbf1eb5ff25b36a05dcabd7aa85",
+      "packaged_sha256": "8737749f438ec0fe720ca8c25dd294e3af70ebbf1eb5ff25b36a05dcabd7aa85",
+      "modified": false
+    },
+    {
+      "file": "cage/si_baseline/state3.in",
+      "source": "zno_proposal/analysis/koskela_2to3_fixed_sp_2026-11-17/state3.in",
+      "source_sha256": "3b84a678b71092a66caa46f60740240d295f92fb547d632e267d113fbf29d272",
+      "packaged_sha256": "3b84a678b71092a66caa46f60740240d295f92fb547d632e267d113fbf29d272",
+      "modified": false
+    },
+    {
+      "file": "cage/si_baseline/job-7048629/state3-7048629.out",
+      "source": "zno_proposal/analysis/koskela_2to3_fixed_sp_2026-11-17/job-7048629/state3-7048629.out",
+      "source_sha256": "1872dbd291385b6ebaa417d69b177be47f3faffe8d82094414c80192e3cb903a",
+      "packaged_sha256": "79f8ba008fe05f6bac5cb9169846a81d45681de0b371fdc7b036c7d4e6e4d1db",
+      "modified": true
+    },
+    {
+      "file": "cage/si_single_points/phsh.in",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/phsh.in",
+      "source_sha256": "f785bd152e9006916c22e856fd1fbfd148359df9aefdb440f747768e8b5cf133",
+      "packaged_sha256": "f785bd152e9006916c22e856fd1fbfd148359df9aefdb440f747768e8b5cf133",
+      "modified": false
+    },
+    {
+      "file": "cage/si_single_points/returned/phsh-7079211.out",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/returned/phsh-7079211.out",
+      "source_sha256": "dcc50d293c7a55158b906b13f74df5fe6ae783a2096e9fd723adae2eaacb124a",
+      "packaged_sha256": "7d2778624b7232f395d1feb6869b09ffa08a7a7e22e4f37c41f278de48894ccd",
+      "modified": true
+    },
+    {
+      "file": "cage/si_single_points/returned/phsh.in",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/returned/phsh.in",
+      "source_sha256": "f785bd152e9006916c22e856fd1fbfd148359df9aefdb440f747768e8b5cf133",
+      "packaged_sha256": "f785bd152e9006916c22e856fd1fbfd148359df9aefdb440f747768e8b5cf133",
+      "modified": false
+    },
+    {
+      "file": "cage/si_baseline/phsh.in",
+      "source": "zno_proposal/analysis/koskela_2to3_fixed_sp_2026-11-17/phsh.in",
+      "source_sha256": "7f44213a34280aa52aadc08c0a0b9a5d1825acede4b8cf854da1b4cd10376994",
+      "packaged_sha256": "7f44213a34280aa52aadc08c0a0b9a5d1825acede4b8cf854da1b4cd10376994",
+      "modified": false
+    },
+    {
+      "file": "cage/si_baseline/job-7048629/phsh-7048629.out",
+      "source": "zno_proposal/analysis/koskela_2to3_fixed_sp_2026-11-17/job-7048629/phsh-7048629.out",
+      "source_sha256": "878f4afaf9b86eab2afb3df76d6ded38e830a83f57beed51d586cb8131ab5223",
+      "packaged_sha256": "6df28d567e0188ac8caf8a113c82ac256164885c90fc71fe2154b10456a8450f",
+      "modified": true
+    },
+    {
+      "file": "cage/si_single_points/water.in",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/water.in",
+      "source_sha256": "798adc79c786d6608cb13daede6496f27512d2c3c54abd28dbdbfbd3ed3f73a1",
+      "packaged_sha256": "798adc79c786d6608cb13daede6496f27512d2c3c54abd28dbdbfbd3ed3f73a1",
+      "modified": false
+    },
+    {
+      "file": "cage/si_single_points/returned/water-7079211.out",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/returned/water-7079211.out",
+      "source_sha256": "0406007988bf5090ac8f897bb051cae45e54a8b25b7fe9f7b87a0de4bf8499df",
+      "packaged_sha256": "2542306876177de34ad5aba98bdcb84dae00fe5ef8a4e7c03d720a1cbacbee14",
+      "modified": true
+    },
+    {
+      "file": "cage/si_single_points/returned/water.in",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/returned/water.in",
+      "source_sha256": "798adc79c786d6608cb13daede6496f27512d2c3c54abd28dbdbfbd3ed3f73a1",
+      "packaged_sha256": "798adc79c786d6608cb13daede6496f27512d2c3c54abd28dbdbfbd3ed3f73a1",
+      "modified": false
+    },
+    {
+      "file": "cage/si_baseline/water.in",
+      "source": "zno_proposal/analysis/koskela_2to3_fixed_sp_2026-11-17/water.in",
+      "source_sha256": "d0dc1daddb0d39c5978bc41c0be0340a614c0ab857ab0c7752e35e44f9bbac5f",
+      "packaged_sha256": "d0dc1daddb0d39c5978bc41c0be0340a614c0ab857ab0c7752e35e44f9bbac5f",
+      "modified": false
+    },
+    {
+      "file": "cage/si_baseline/job-7048629/water-7048629.out",
+      "source": "zno_proposal/analysis/koskela_2to3_fixed_sp_2026-11-17/job-7048629/water-7048629.out",
+      "source_sha256": "36e8c9a6715ef0c2918f360592a63c0bceea19223be0f200fef20c82ae465b9a",
+      "packaged_sha256": "48dca0b323453d84f6460626120b9fbf0891a3bd4311e445bbcbfcfb08617a03",
+      "modified": true
+    },
+    {
+      "file": "cage/si_single_points/ledger.py",
+      "source": "zno_proposal/analysis/koskela_si_d3bj_2026-11-22/ledger.py",
+      "source_sha256": "7b3ec60bfd058ab63c627eb5a31ad64127adf0e336e34bd87ca55f94445f850f",
+      "packaged_sha256": "ff572483d2a91034ec2ee63e7e0eca7d53477acafe4f324a4661b2253afadc21",
+      "modified": true
+    },
+    {
+      "file": "cage/pcm/state2.xyz",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/state2.xyz",
+      "source_sha256": "8ee224997bc6275e77e5a28505a803fc64ef75cdd249ad1e0b328ebb9b4f088b",
+      "packaged_sha256": "8ee224997bc6275e77e5a28505a803fc64ef75cdd249ad1e0b328ebb9b4f088b",
+      "modified": false
+    },
+    {
+      "file": "cage/pcm/state2.in",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/state2.in",
+      "source_sha256": "2eab6db3d66553d5b34c96176657f19bb6887b0b4a3a4f2502ca98becea8e5f9",
+      "packaged_sha256": "2eab6db3d66553d5b34c96176657f19bb6887b0b4a3a4f2502ca98becea8e5f9",
+      "modified": false
+    },
+    {
+      "file": "cage/pcm/state2_no_d3_control.in",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/state2_no_d3_control.in",
+      "source_sha256": "5b9ec0f5258422591fa162ca21691b3b69e73056666d404e65aa639d208955c0",
+      "packaged_sha256": "5b9ec0f5258422591fa162ca21691b3b69e73056666d404e65aa639d208955c0",
+      "modified": false
+    },
+    {
+      "file": "cage/pcm/state2.out",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/returned/state2-7132544_0.out",
+      "source_sha256": "6c6f18bd0d6b3fc5a6101f759d16e93195c8527929685813f23dd99511c0cb4b",
+      "packaged_sha256": "d1809bd6a0373f7af3b0c4e4a78d21c50a62066ca0fc5b39e80f81215c05f6dd",
+      "modified": true
+    },
+    {
+      "file": "cage/pcm/state3.xyz",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/state3.xyz",
+      "source_sha256": "709c252e6158204a8d58648cb3039d18b1d460fb6dc89bfff38ba09465bd4bd0",
+      "packaged_sha256": "709c252e6158204a8d58648cb3039d18b1d460fb6dc89bfff38ba09465bd4bd0",
+      "modified": false
+    },
+    {
+      "file": "cage/pcm/state3.in",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/state3.in",
+      "source_sha256": "c4b68883ac34206703798e0a4b814c36d8addafadc4e8e788192b53de643cda4",
+      "packaged_sha256": "c4b68883ac34206703798e0a4b814c36d8addafadc4e8e788192b53de643cda4",
+      "modified": false
+    },
+    {
+      "file": "cage/pcm/state3_no_d3_control.in",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/state3_no_d3_control.in",
+      "source_sha256": "05f996b56dad04997eb68b0574090499736ba77d8bacbc462d201e6ab2a81909",
+      "packaged_sha256": "05f996b56dad04997eb68b0574090499736ba77d8bacbc462d201e6ab2a81909",
+      "modified": false
+    },
+    {
+      "file": "cage/pcm/state3.out",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/returned/state3-7132544_1.out",
+      "source_sha256": "e2fb9e5c3ef360e046933fc7df8cc84aa97b169db9291d10657b935df24de7a0",
+      "packaged_sha256": "9370350893afb979cce09659866b8faf790467818bbfed3c82e35298cd56c886",
+      "modified": true
+    },
+    {
+      "file": "cage/pcm/phsh.xyz",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/phsh.xyz",
+      "source_sha256": "9c0897d4a5184619c4e1a172eb8f4db82343f24c23925464ff14f128628c0cfa",
+      "packaged_sha256": "9c0897d4a5184619c4e1a172eb8f4db82343f24c23925464ff14f128628c0cfa",
+      "modified": false
+    },
+    {
+      "file": "cage/pcm/phsh.in",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/phsh.in",
+      "source_sha256": "6e2b185343e4e301e32ca017e9d60b92f74353f8a35ccb04a7c3f34740cec616",
+      "packaged_sha256": "6e2b185343e4e301e32ca017e9d60b92f74353f8a35ccb04a7c3f34740cec616",
+      "modified": false
+    },
+    {
+      "file": "cage/pcm/phsh_no_d3_control.in",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/phsh_no_d3_control.in",
+      "source_sha256": "cf2a70cf2f72f69203e640586994c405f0d15be86f00ebf915a7e9df9b9d3e46",
+      "packaged_sha256": "cf2a70cf2f72f69203e640586994c405f0d15be86f00ebf915a7e9df9b9d3e46",
+      "modified": false
+    },
+    {
+      "file": "cage/pcm/phsh.out",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/returned/phsh-7132544_2.out",
+      "source_sha256": "77c905065e94bf4e16e2919d0c06833f2bc50b0fe0af05ef1ab8524d684f6471",
+      "packaged_sha256": "ab1d65b9c654c872c62b2574af8f1cc954b525e61d90e829b1f204589364a874",
+      "modified": true
+    },
+    {
+      "file": "cage/pcm/water.xyz",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/water.xyz",
+      "source_sha256": "357e1c73c7bb9b88547c9f5626610e05aa145da44c8cd36ca322594781fb2c20",
+      "packaged_sha256": "357e1c73c7bb9b88547c9f5626610e05aa145da44c8cd36ca322594781fb2c20",
+      "modified": false
+    },
+    {
+      "file": "cage/pcm/water.in",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/water.in",
+      "source_sha256": "7c33926ed4da77b49784cb56298fd800f657eefb52da1b60f9a41f9305d30f52",
+      "packaged_sha256": "7c33926ed4da77b49784cb56298fd800f657eefb52da1b60f9a41f9305d30f52",
+      "modified": false
+    },
+    {
+      "file": "cage/pcm/water_no_d3_control.in",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/water_no_d3_control.in",
+      "source_sha256": "3737bf6fad061037777a1937bfabbe5a584207a89a66fa8e501388c170c9f644",
+      "packaged_sha256": "3737bf6fad061037777a1937bfabbe5a584207a89a66fa8e501388c170c9f644",
+      "modified": false
+    },
+    {
+      "file": "cage/pcm/water.out",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/returned/water-7132544_3.out",
+      "source_sha256": "004479726c823228b48aae756289340282b31510ddd2600a157bab7fe698df2f",
+      "packaged_sha256": "ff4d6dce4ae6037fa78837028a45a37e1187f6a23af80bf880148995f17f7690",
+      "modified": true
+    },
+    {
+      "file": "cage/reference/pcm_manifest.json",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/manifest.json",
+      "source_sha256": "9a7f3f114a02ef77ced4b32125ddddd2ac561d10921168a8d5524342d612120d",
+      "packaged_sha256": "301bb6d4a4aa590ab2fc427dbaa3cb9e61c0d86a5b3afe119bfd3339403434ee",
+      "modified": true
+    },
+    {
+      "file": "cage/reference/pcm_species_results.csv",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/species_results.csv",
+      "source_sha256": "86c3777db4458aa84e2e31f2ee42d79d4ce8ce4f1295ff4689be28c9c62446ec",
+      "packaged_sha256": "86c3777db4458aa84e2e31f2ee42d79d4ce8ce4f1295ff4689be28c9c62446ec",
+      "modified": false
+    },
+    {
+      "file": "cage/reference/pcm_reaction_summary.json",
+      "source": "zno_proposal/analysis/koskela_2to3_pcm_d3bj_2026-11-26/reaction_summary.json",
+      "source_sha256": "c29aa83fb9874598980e8e5cb90778bef3e3f8087a48400d29f369832796c77d",
+      "packaged_sha256": "f2db965abbe1b0c7b9414b36498277a30e0dfae42414351a862acdff49d77c0f",
+      "modified": true
+    },
+    {
+      "file": "cage/pcm/thermochemistry.json",
+      "source": "zno_proposal/analysis/koskela_fig4_pcm_30c_2026-11-24/snapshots/2026-11-25_181340_PST/thermochemistry.json",
+      "source_sha256": "979130e670b79c2a76e669b28c026180a5949bc292978b28c53c8faa52506c72",
+      "packaged_sha256": "979130e670b79c2a76e669b28c026180a5949bc292978b28c53c8faa52506c72",
+      "modified": false
+    },
+    {
+      "file": "cage/reference/pcm_no_d3_summary.json",
+      "source": "zno_proposal/analysis/koskela_fig4_pcm_30c_2026-11-24/snapshots/2026-11-25_181340_PST/water_formation_summary.json",
+      "source_sha256": "a3096a0d60be03a1a35309c9716db9bfffd46b5203bc030994947314b73f7518",
+      "packaged_sha256": "a3096a0d60be03a1a35309c9716db9bfffd46b5203bc030994947314b73f7518",
+      "modified": false
+    },
+    {
+      "file": "cage/fixed_structure_pcm/results_75C.json",
+      "source": "zno_proposal/analysis/koskela_2to3_acetonitrile_pcm_2026-11-18/results.json",
+      "source_sha256": "56ac12a4af4e480a76d21c3f18a9e5e69a73a3fe5e1942d4705274253cfc98ca",
+      "packaged_sha256": "56ac12a4af4e480a76d21c3f18a9e5e69a73a3fe5e1942d4705274253cfc98ca",
+      "modified": false
+    },
+    {
+      "file": "cage/fixed_structure_pcm/state2.out",
+      "source": "zno_proposal/analysis/koskela_2to3_acetonitrile_pcm_2026-11-18/job-7055343/state2-7055343.out",
+      "source_sha256": "33e848b3ca5b11bf079c809fd1d49d2e9a29464d8ea1a76265a1b710ffad8cfb",
+      "packaged_sha256": "150357b318ffc79877225687500a653e39ac358f7677812e60788e99125c8b08",
+      "modified": true
+    },
+    {
+      "file": "cage/fixed_structure_pcm/state3.out",
+      "source": "zno_proposal/analysis/koskela_2to3_acetonitrile_pcm_2026-11-18/job-7055344/state3-7055344.out",
+      "source_sha256": "2b88096a276ea0c944219d3712cdf7b4922fc4aa693950f91f15719689191bdd",
+      "packaged_sha256": "19f3f3e7af678fd29cff05ea9acfffd4164c0f14532b59185a0866f9d662bc6a",
+      "modified": true
+    },
+    {
+      "file": "cage/fixed_structure_pcm/phsh.out",
+      "source": "zno_proposal/analysis/koskela_2to3_acetonitrile_pcm_2026-11-18/job-7055336/phsh-7055336.out",
+      "source_sha256": "fcdc1986a5b1ea2cd743c8ad9c822883f38b82442bd8c19fe023060cd7b00104",
+      "packaged_sha256": "7a10f7022212395b803984650fc409ce96e74d8776a589e1fdd3e42d099ee309",
+      "modified": true
+    },
+    {
+      "file": "cage/fixed_structure_pcm/water.out",
+      "source": "zno_proposal/analysis/koskela_2to3_acetonitrile_pcm_2026-11-18/job-7055336/water-7055336.out",
+      "source_sha256": "4247f5bd5bd0514274d074dc02121aff6f9d9a97f9a3cc6e7cc61e712565c0b5",
+      "packaged_sha256": "2062c31c10e6823f9bbd555f3794a33eb5f433000057319cc56ac734ed7320ce",
+      "modified": true
+    },
+    {
+      "file": "geometry/reference.json",
+      "source": "zno_proposal/analysis/state2_gas_pcm_overlay_2026-11-26/metrics.json",
+      "source_sha256": "280f82fd06753962de83c22bc5bd4b8b3249584deb3d05fd6a616941c8128786",
+      "packaged_sha256": "494f2906d069151c1aee86ac459313ce5cf4888b77c5564031fe85be614f889a",
+      "modified": true
+    },
+    {
+      "file": "geometry/state2_overlay.png",
+      "source": "zno_proposal/analysis/state2_gas_pcm_overlay_2026-11-26/state2_overlay.png",
+      "source_sha256": "683b68c7caf5f2003e9966076b4d002266103363eb264ff748362e0d1a37f7c5",
+      "packaged_sha256": "3090a40c99ebda24574eb6c95077255bc7a807ba230fa0895bcfd2cd4a1f8442",
+      "modified": true
+    },
+    {
+      "file": "geometry/inspect_state2.py",
+      "source": "zno_proposal/analysis/state2_gas_pcm_overlay_2026-11-26/inspect_state2.py",
+      "source_sha256": "5a7f4e9a4c59cff3dd2255096133bf6f3e1dac81105fcc783e825b622ff3f344",
+      "packaged_sha256": "d8a21f223a496f35407f80c75b44025221bbd3be4fbd3f34b7b8c153c7dacfb8",
+      "modified": true
+    },
+    {
+      "file": "kinetics/marker_points.csv",
+      "source": "zno_proposal/analysis/koskela_si_kinetics_2026-11-17/results/si_marker_points.csv",
+      "source_sha256": "52b694fafec36f438c5ab2c04f1ab402574de2563ff6eacc163d49737da11fd8",
+      "packaged_sha256": "52b694fafec36f438c5ab2c04f1ab402574de2563ff6eacc163d49737da11fd8",
+      "modified": false
+    },
+    {
+      "file": "kinetics/reference.json",
+      "source": "zno_proposal/analysis/koskela_si_kinetics_2026-11-17/results/si_kinetics_summary.json",
+      "source_sha256": "29e571824b3c48cde3fdd0f40e252f2cba7d17ba74594a758088c56072882e65",
+      "packaged_sha256": "29e571824b3c48cde3fdd0f40e252f2cba7d17ba74594a758088c56072882e65",
+      "modified": false
+    },
+    {
+      "file": "kinetics/extract_markers.py",
+      "source": "zno_proposal/analysis/koskela_si_kinetics_2026-11-17/analyze_si_kinetics.py",
+      "source_sha256": "587742f16aff11c859565e0ab1fad8a16b8bbea1569c8012576495c07eede370",
+      "packaged_sha256": "2736a3721f2dba69011a1896d830896e78fc21cd9e89aaa1792af868ebc92184",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/slab_layers.json",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/slab_layers.json",
+      "source_sha256": "5f2e8cc5abe14f8f1e637fc2a25cdbb2bf5855057825feb70c11ed2368f35ba9",
+      "packaged_sha256": "5f2e8cc5abe14f8f1e637fc2a25cdbb2bf5855057825feb70c11ed2368f35ba9",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/build_structures.py",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/build_structures.py",
+      "source_sha256": "30f4da673c3b02a7c5fab58ede73b1fd971f584d3a0753eeb4cdaf4747022b94",
+      "packaged_sha256": "6db41e29aea850659a40e4c0a9306269a3ea6510e2ee440575a2099d8d48d8c2",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/compare_forces.py",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/compare_forces.py",
+      "source_sha256": "498d116c4110bfb0a9c532339b0f34323c3716d4e0772b532ae1c94ee6f7b751",
+      "packaged_sha256": "498d116c4110bfb0a9c532339b0f34323c3716d4e0772b532ae1c94ee6f7b751",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/clean_relax.in",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/clean_relax.in",
+      "source_sha256": "c7f9681b15a2549f6500eeb3aa6b4f36b86384895ac78e88ea591e1dc19cdb6a",
+      "packaged_sha256": "15ef3ca26d55a2d81e65a6089a750638397d9ec9e42326ab5673a984bee7e36a",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/source/POSCAR",
+      "source": "zno_proposal/analysis/zno_pbc_ml_smoke_2026-11-17/POSCAR",
+      "source_sha256": "4e535c64877b2624e2f4df3668fc7f031aef5b2f7631b64931ca4c65670ae691",
+      "packaged_sha256": "4e535c64877b2624e2f4df3668fc7f031aef5b2f7631b64931ca4c65670ae691",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/source/SC-013-D1SC06667F-s011.xyz",
+      "source": "zno_proposal/literature/zno/Koskela_2022/sources/supplementary/SC-013-D1SC06667F-s011.xyz",
+      "source_sha256": "472a55166ac637ed89ecd03ad6f11e052aa609d1daa9d1854f4cd353c5f122e0",
+      "packaged_sha256": "472a55166ac637ed89ecd03ad6f11e052aa609d1daa9d1854f4cd353c5f122e0",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/structures/water1.in",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/structures/water1.in",
+      "source_sha256": "9e4e79a35f71112ff9bac5ed8549614d1a1b7561adfed1f2fc34b678822ec613",
+      "packaged_sha256": "ef58efceb923e88fe1735e8816a7b6078e524145d5aa3ab28bf10534c54dc874",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/structures/water2.xyz",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/structures/water2.xyz",
+      "source_sha256": "c88e9ecca45b57babe6268f2b27beb463c1588a7ff61ada3f02d5623f2dc036c",
+      "packaged_sha256": "c88e9ecca45b57babe6268f2b27beb463c1588a7ff61ada3f02d5623f2dc036c",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/structures/water3.xyz",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/structures/water3.xyz",
+      "source_sha256": "8e160c1ca48ef37c1d73f0d379a317ce52f1de263a8b36f894ff255b0f8ddd79",
+      "packaged_sha256": "8e160c1ca48ef37c1d73f0d379a317ce52f1de263a8b36f894ff255b0f8ddd79",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/structures/water1.xyz",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/structures/water1.xyz",
+      "source_sha256": "7a41c4f35c734db4282f99e40279c222a4c0ae1ee1119e75db6d34b551c3d749",
+      "packaged_sha256": "7a41c4f35c734db4282f99e40279c222a4c0ae1ee1119e75db6d34b551c3d749",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/structures/metadata.json",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/structures/metadata.json",
+      "source_sha256": "85cd35d95ceab549d14cd3d61ba397580a0d45c7369320c2a6ebb55353f5e130",
+      "packaged_sha256": "85cd35d95ceab549d14cd3d61ba397580a0d45c7369320c2a6ebb55353f5e130",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/structures/release1.in",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/structures/release1.in",
+      "source_sha256": "882faaa1a2418bb1951f9f0024a623a5be4d0b9159dba25ca5b629ac4e09950c",
+      "packaged_sha256": "5aedad9611e108611bb43b6136133eeafb62afdd5ea4c6f32a49744854ad807a",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/structures/nonbonded_check.json",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/structures/nonbonded_check.json",
+      "source_sha256": "e4f769b92e98a10b3895b9d75d4f48be4a4a5ba49f786f907a36d1051a0282f1",
+      "packaged_sha256": "e4f769b92e98a10b3895b9d75d4f48be4a4a5ba49f786f907a36d1051a0282f1",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/structures/release2.in",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/structures/release2.in",
+      "source_sha256": "540655d57b93aa77c65f677c8867be37421bb567a591cd699123f8515b67370b",
+      "packaged_sha256": "cb49baf257e035db13aa51d97ab7a5322773b59e18137b5f59b9476f15ebf445",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/structures/release1.xyz",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/structures/release1.xyz",
+      "source_sha256": "3cf372d1be779ac8c0f0fc83d3447084d8b4aced623e45714cfaf607cf417089",
+      "packaged_sha256": "3cf372d1be779ac8c0f0fc83d3447084d8b4aced623e45714cfaf607cf417089",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/structures/release2.xyz",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/structures/release2.xyz",
+      "source_sha256": "da676700af1861cbd2e70755659c427d7bb72e7c3ba0b9b903382cebb7902d0f",
+      "packaged_sha256": "da676700af1861cbd2e70755659c427d7bb72e7c3ba0b9b903382cebb7902d0f",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/structures/release3.xyz",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/structures/release3.xyz",
+      "source_sha256": "a2b7290b4d4d52d4afba52f622e9d2d6c1d195669202eeadf3b4f0b769b3cbfa",
+      "packaged_sha256": "a2b7290b4d4d52d4afba52f622e9d2d6c1d195669202eeadf3b4f0b769b3cbfa",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/structures/release3.in",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/structures/release3.in",
+      "source_sha256": "38cd8c896a08426b57ad0882b9405563c61bdc35ee9d011f79989a29b7b2d187",
+      "packaged_sha256": "a194d67e6eb86888b879a0e88da1f19f84f1858a165a9c65e422f65c69aff652",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/structures/water3.in",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/structures/water3.in",
+      "source_sha256": "6eedf8aa873daddb185f5cbe0bc1ea05fcb968188703abe7e2f6d4dbe0367875",
+      "packaged_sha256": "115acba9f14553449e8d51c62f3937618019af37a0ebf227b14046b3769c79ae",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/structures/water2.in",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/structures/water2.in",
+      "source_sha256": "96378674eea9b4201973442671f77c76868c84e588420a61a2fe7740f0c59c1e",
+      "packaged_sha256": "4f0b0098667c56ff7aedb4fad6f9b1361349b15fcd14fc404481c4202853e626",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/water1-7055417.in",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/water1-7055417.in",
+      "source_sha256": "708899f0071322c65e7d321173b2b564b25961c8547dc98c13e545fe5e3b8105",
+      "packaged_sha256": "f81fa7af1ac6ee76810b9a656b2d00cde86f273684b3fe26173008d385029934",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/water1-7055417.out",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/water1-7055417.out",
+      "source_sha256": "d01746287250ca5c5cc07b01fc05b588df6c15f2e5488b3bfda73df1ba8c6eba",
+      "packaged_sha256": "c545aec845dbc28042198d5f348c78d0c2b253082061b91e1d10a9c374f399c4",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/water2-7055417.in",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/water2-7055417.in",
+      "source_sha256": "9475cefa756982d86cf0730fa37a69e202992cc4eead7c059f2fac3000df0fb8",
+      "packaged_sha256": "3c1b40ec9d2455d01547a710ac00364f30b9051546e8929d362c53c479e7380c",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/water2-7055417.out",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/water2-7055417.out",
+      "source_sha256": "74f71ea1364db441c49fa469f493eb2b9053c5198a959266636bc4a5c8d57466",
+      "packaged_sha256": "cfc32c2542f6ee1a085fdb54dbf79ecd8294c9d57d71797bc7b1d9ff18441667",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/water3-7055962.in",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/water3-7055962.in",
+      "source_sha256": "12de2d416a50593afc67689d798cd19701a743e7568b3d6519ed7d78444c88f7",
+      "packaged_sha256": "80c2a713a7fa1248124e344f164fcddce4f471fcfef010537dfec2cbf1bfd5ce",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/water3-7055962.out",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/water3-7055962.out",
+      "source_sha256": "036690cd2f9ef8ac7af6c69322fe3b12c65f65691e82a388fd9726160130f1d4",
+      "packaged_sha256": "800afc8c29ba145f771e6cad2cdfaea9d6ed958eb743fe2a948ee75c67f59c8e",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/release1-7055418.in",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/release1-7055418.in",
+      "source_sha256": "0b586e32930e541fd1841a776bf8a6239b260f859f018244439ffcfec5998bb3",
+      "packaged_sha256": "608ecd103e79d393c1ffd2370bef98e5760328a799bd9b374eb6530b287f0e84",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/release1-7055418.out",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/release1-7055418.out",
+      "source_sha256": "da5e02ad8485135849501fe4ebc5bfb6078b6196727df29d107d9f7690c16ecb",
+      "packaged_sha256": "e306d038af8c44a6b3d012c0ca20ad3a9dd6dd95f39cec7e883f5fbab1c278e3",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/release2-7056013.in",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/release2-7056013.in",
+      "source_sha256": "e549e98cfdd30116f642f8ddd65bee7697f8819a17a31f8f95e52c1e297ab9d6",
+      "packaged_sha256": "b900f7ca0a674a406a637ef2b78dd0518ba45772febe3ef51c73a7bac688f5c1",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/release2-7056013.out",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/release2-7056013.out",
+      "source_sha256": "dd4f8428d6dd6e1d5200b9bc59ab3ead854d6572394c33fa1a78b1e39d9c9b42",
+      "packaged_sha256": "e9a8afbd4306c6dee9b821deeb8bfd0a0a5605518cfebb92de7c83d63bcd418a",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/release3-7055961.in",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/release3-7055961.in",
+      "source_sha256": "20064beb6a651e62af0167818738cb817e9525fc1ea18334be2e8abbc0fd8841",
+      "packaged_sha256": "98bc9cc4d29098a1ab9a03e0a91eeda85fcab79375fbd59a5e73567b3a9e783e",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/release3-7055961.out",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/release3-7055961.out",
+      "source_sha256": "589eb13df42222609f9502c4f3b76587921c9d075480d550294a198fbc954e84",
+      "packaged_sha256": "86384695aa8829aa8e4cb2138a2b2e8c4648562481919bba1c96e08aa412ae5c",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/mace-series-7055419.json",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/mace-series-7055419.json",
+      "source_sha256": "ff1851cedb7f84ceb8c962072ee622751d9078603b3ea04f78a597ecf9767998",
+      "packaged_sha256": "ff1851cedb7f84ceb8c962072ee622751d9078603b3ea04f78a597ecf9767998",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/relaxed_slab.xyz",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/relaxed_slab.xyz",
+      "source_sha256": "7cf89c1aa8dd91fe085fb08e4f640b36af00f4eb464b5b95edd885946bba07ca",
+      "packaged_sha256": "7cf89c1aa8dd91fe085fb08e4f640b36af00f4eb464b5b95edd885946bba07ca",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/relax_check.json",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/relax_check.json",
+      "source_sha256": "6f1c800079cf6d398ea06a5d539f1e23932e2fc46549f5ef5ce6b88fdd61af8d",
+      "packaged_sha256": "6f1c800079cf6d398ea06a5d539f1e23932e2fc46549f5ef5ce6b88fdd61af8d",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/qe-relax-7055128.out",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/qe-relax-7055128.out",
+      "source_sha256": "b52baab6a2a3671e18c16c5caaa13dedb2fafb910742b850cfecbf5e70e276cf",
+      "packaged_sha256": "3a4c9159d30bcb4f0172bb65c2c09e6e5725b41357ada6aa69c88be9e1bf1662",
+      "modified": true
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/water_comparison.csv",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/water_comparison.csv",
+      "source_sha256": "c443b24363faa7dc15cdee0b0e8d15f4e6cb922ef782e6ee0d74ddaef39f4ac1",
+      "packaged_sha256": "c443b24363faa7dc15cdee0b0e8d15f4e6cb922ef782e6ee0d74ddaef39f4ac1",
+      "modified": false
+    },
+    {
+      "file": "slab/o85_benchmark/outputs/release_comparison.csv",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/outputs/release_comparison.csv",
+      "source_sha256": "0ff56bfada2ffcf7d69fc70290b577a68d8e28b0258d10d6852ee179e92b465f",
+      "packaged_sha256": "0ff56bfada2ffcf7d69fc70290b577a68d8e28b0258d10d6852ee179e92b465f",
+      "modified": false
+    },
+    {
+      "file": "slab/vacuum_check/comparison.csv",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/vacuum_sensitivity_2026-11-20/comparison.csv",
+      "source_sha256": "da955c3a2ff5db5cb015aa4d23a3d8520ee0a0b6e97e0f29c3e0701e5b97cf2c",
+      "packaged_sha256": "da955c3a2ff5db5cb015aa4d23a3d8520ee0a0b6e97e0f29c3e0701e5b97cf2c",
+      "modified": false
+    },
+    {
+      "file": "slab/vacuum_check/comparison.json",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/vacuum_sensitivity_2026-11-20/comparison.json",
+      "source_sha256": "310c146074f7da83ffd7deb215c78e882d0ec8800a0e5f655f93151445262cbf",
+      "packaged_sha256": "310c146074f7da83ffd7deb215c78e882d0ec8800a0e5f655f93151445262cbf",
+      "modified": false
+    },
+    {
+      "file": "slab/vacuum_check/baseline.json",
+      "source": "zno_proposal/analysis/zno_pbc_reaction_benchmark_2026-11-18/vacuum_sensitivity_2026-11-20/baseline.json",
+      "source_sha256": "478ae4ed28f1d398a67463d52ae62270d2a50315fdee6c3a5f20dad853bafa4c",
+      "packaged_sha256": "478ae4ed28f1d398a67463d52ae62270d2a50315fdee6c3a5f20dad853bafa4c",
+      "modified": false
+    },
+    {
+      "file": "slab/o80_candidates/inputs/A.relax.in",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/inputs/A.relax.in",
+      "source_sha256": "0d33db2bbb1930fda6b65c0f00e730887e2cc88bc76cbd4d324bb7cce0120f8b",
+      "packaged_sha256": "a0b2e275ae945e5db74a08b6dab532b96c146aa016c7eac0d2bbc088d7e83f76",
+      "modified": true
+    },
+    {
+      "file": "slab/o80_candidates/inputs/B.relax.in",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/inputs/B.relax.in",
+      "source_sha256": "8777895e94768afc7574bab5df634b0bc4333c632af5ce1de9a398c5d82c103d",
+      "packaged_sha256": "c76c257af87f54a17d4e7d4bb38913b9426378257eab2b5652f1039fb4e2bf12",
+      "modified": true
+    },
+    {
+      "file": "slab/o80_candidates/inputs/A.xyz",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/inputs/A.xyz",
+      "source_sha256": "3797e346662e8211baab184392e507d0b1b10ad84feab681b843d79184d20a48",
+      "packaged_sha256": "3797e346662e8211baab184392e507d0b1b10ad84feab681b843d79184d20a48",
+      "modified": false
+    },
+    {
+      "file": "slab/o80_candidates/inputs/B.xyz",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/inputs/B.xyz",
+      "source_sha256": "0638e25bd47dd86041a9d57bc72dfc6a6a50d127a6e567868ef1528f9489af10",
+      "packaged_sha256": "0638e25bd47dd86041a9d57bc72dfc6a6a50d127a6e567868ef1528f9489af10",
+      "modified": false
+    },
+    {
+      "file": "slab/o80_candidates/inputs/geometry.json",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/inputs/geometry.json",
+      "source_sha256": "8814c8ecd2180be90ccc5f7ae95c8e76a6439c5aca5c036368b8cf94077f96ab",
+      "packaged_sha256": "8814c8ecd2180be90ccc5f7ae95c8e76a6439c5aca5c036368b8cf94077f96ab",
+      "modified": false
+    },
+    {
+      "file": "slab/o80_candidates/bound.extxyz",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/B-convergence-2026-11-21/handoff-7079756-2026-11-22/accepted_b.extxyz",
+      "source_sha256": "8c0a2dba5364e4f00eb7180e82ed821dfffc2bbfbd8246dc241c2734fd38ebc8",
+      "packaged_sha256": "8c0a2dba5364e4f00eb7180e82ed821dfffc2bbfbd8246dc241c2734fd38ebc8",
+      "modified": false
+    },
+    {
+      "file": "slab/o80_candidates/last-evaluated-frames.extxyz",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/native_terminal_2026-11-21/last-evaluated-frames.extxyz",
+      "source_sha256": "37c78ac692d3befc361685071cf6e9ef80232d5ea3c333e0ff13eead321aec9b",
+      "packaged_sha256": "37c78ac692d3befc361685071cf6e9ef80232d5ea3c333e0ff13eead321aec9b",
+      "modified": false
+    },
+    {
+      "file": "slab/o80_candidates/last-evaluated-audit.json",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/native_terminal_2026-11-21/last-evaluated-audit.json",
+      "source_sha256": "1c2adf0356a3a2f85b052b04de4d4d26c37b3b29b27b708736d9de05c20ad66d",
+      "packaged_sha256": "1c2adf0356a3a2f85b052b04de4d4d26c37b3b29b27b708736d9de05c20ad66d",
+      "modified": false
+    },
+    {
+      "file": "mace/path_pilot/refinement_cycle_history.csv",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/results/refinement_cycle_history.csv",
+      "source_sha256": "dbee27772d50c05544b3142172fd2278fbb24787159b5b21ef0b24f608a515f6",
+      "packaged_sha256": "dbee27772d50c05544b3142172fd2278fbb24787159b5b21ef0b24f608a515f6",
+      "modified": false
+    },
+    {
+      "file": "mace/path_pilot/refinement_initial_interiors.csv",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/results/refinement_initial_interiors.csv",
+      "source_sha256": "6e4e6ffef6923b89296695ff89a245f0d51cdc6f0e44152d2f3f025a8268b19e",
+      "packaged_sha256": "6e4e6ffef6923b89296695ff89a245f0d51cdc6f0e44152d2f3f025a8268b19e",
+      "modified": false
+    },
+    {
+      "file": "mace/path_pilot/refinement_current_coverage.csv",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/results/refinement_current_coverage.csv",
+      "source_sha256": "21b59ade6f1e344504dbd06f288b69d845e08a26a57109b224a010c60ea50b75",
+      "packaged_sha256": "21b59ade6f1e344504dbd06f288b69d845e08a26a57109b224a010c60ea50b75",
+      "modified": false
+    },
+    {
+      "file": "mace/path_pilot/qe_path.csv",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/results/qe_path.csv",
+      "source_sha256": "3db67235df473821a49b7dd710bf1e943631379fcad531c172af5500f30c0b83",
+      "packaged_sha256": "3db67235df473821a49b7dd710bf1e943631379fcad531c172af5500f30c0b83",
+      "modified": false
+    },
+    {
+      "file": "mace/data/train.extxyz",
+      "source": "zno_proposal/analysis/zno_pbc_path_dataset_2026-11-20/mace_finetune_2026-11-20/data/train.extxyz",
+      "source_sha256": "6faf6411300723f4b2e0eaba6100292064876a1a13e27d6b9f4c713f3c8214d5",
+      "packaged_sha256": "6faf6411300723f4b2e0eaba6100292064876a1a13e27d6b9f4c713f3c8214d5",
+      "modified": false
+    },
+    {
+      "file": "mace/data/valid.extxyz",
+      "source": "zno_proposal/analysis/zno_pbc_path_dataset_2026-11-20/mace_finetune_2026-11-20/data/valid.extxyz",
+      "source_sha256": "994698cbbf450cb23d9e3a3fa41e668f2d0d79a99f33ea56cb662906faa8fc2a",
+      "packaged_sha256": "994698cbbf450cb23d9e3a3fa41e668f2d0d79a99f33ea56cb662906faa8fc2a",
+      "modified": false
+    },
+    {
+      "file": "mace/data/test.extxyz",
+      "source": "zno_proposal/analysis/zno_pbc_path_dataset_2026-11-20/mace_finetune_2026-11-20/data/test.extxyz",
+      "source_sha256": "a461ceeadfad8d87ca8c4933793a98b9c4f034fda52c4ccd9930a8bf449e2b9c",
+      "packaged_sha256": "a461ceeadfad8d87ca8c4933793a98b9c4f034fda52c4ccd9930a8bf449e2b9c",
+      "modified": false
+    },
+    {
+      "file": "mace/data/references.extxyz",
+      "source": "zno_proposal/analysis/zno_pbc_path_dataset_2026-11-20/mace_finetune_2026-11-20/data/references.extxyz",
+      "source_sha256": "4294dadf427385b0164dafb4f22e36e42dc07a9eeb29e0d2821f0a27a97c1acf",
+      "packaged_sha256": "4294dadf427385b0164dafb4f22e36e42dc07a9eeb29e0d2821f0a27a97c1acf",
+      "modified": false
+    },
+    {
+      "file": "mace/data/manifest.json",
+      "source": "zno_proposal/analysis/zno_pbc_path_dataset_2026-11-20/mace_finetune_2026-11-20/data/manifest.json",
+      "source_sha256": "4cb907432d5db4d2415baba67df4bc606d57392c54563fd187bf79b4e1414a14",
+      "packaged_sha256": "8d939e9516493e99c4abfa0505fe5a4e6ec0d5c4abe7c45eb371ccff8966577f",
+      "modified": true
+    },
+    {
+      "file": "mace/train_native_head.py",
+      "source": "zno_proposal/analysis/zno_pbc_path_dataset_2026-11-20/mace_finetune_2026-11-20/train_native_head.py",
+      "source_sha256": "edbac6c5986aab5011c8ce47eae1d4aaaa0f49f1c4ad9aa0bd15c0c040fe85bf",
+      "packaged_sha256": "edbac6c5986aab5011c8ce47eae1d4aaaa0f49f1c4ad9aa0bd15c0c040fe85bf",
+      "modified": false
+    },
+    {
+      "file": "mace/evaluate_native.py",
+      "source": "zno_proposal/analysis/zno_pbc_path_dataset_2026-11-20/mace_finetune_2026-11-20/evaluate_native.py",
+      "source_sha256": "5dc2a035760c4fa42f415a49c3bf37f4ccd67b6e193fe6526378dfd955508fb0",
+      "packaged_sha256": "ea42914fcfb75df54463b145b03a590d167542a8fcba0193d0850f74746dcf82",
+      "modified": true
+    },
+    {
+      "file": "mace/reference/validation.json",
+      "source": "zno_proposal/analysis/zno_pbc_path_dataset_2026-11-20/mace_finetune_2026-11-20/archive-7065452/run-7065452/models/validation.json",
+      "source_sha256": "5ee8ef33e68b7233ede4c156bda3a43b2b0500e0e2a0045303885b52b7052a5d",
+      "packaged_sha256": "5ee8ef33e68b7233ede4c156bda3a43b2b0500e0e2a0045303885b52b7052a5d",
+      "modified": false
+    },
+    {
+      "file": "mace/reference/test_metrics.csv",
+      "source": "zno_proposal/analysis/zno_pbc_path_dataset_2026-11-20/mace_finetune_2026-11-20/archive-7065452/run-7065452/test/test_metrics.csv",
+      "source_sha256": "fd1a1c02decc3f872036fcc2603b9165b313517757e92cd971a7aef605e47780",
+      "packaged_sha256": "fd1a1c02decc3f872036fcc2603b9165b313517757e92cd971a7aef605e47780",
+      "modified": false
+    },
+    {
+      "file": "mace/reference/summary.json",
+      "source": "zno_proposal/analysis/zno_pbc_path_dataset_2026-11-20/mace_finetune_2026-11-20/archive-7065452/run-7065452/test/summary.json",
+      "source_sha256": "fb368749c0007509522ac193262f3d280673f9c87d3fd8eebd2fb4efe24a22d7",
+      "packaged_sha256": "877bbf13469a8c4549cafe935705220d8debe021c6fe9366723123ffc6b5f143",
+      "modified": true
+    },
+    {
+      "file": "slab/o80_candidates/outputs/A.in",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/native_terminal_2026-11-21/A/actual.in",
+      "source_sha256": "dcc79d1c8d59a1f50254388b6fad86b2fe7cdd976308baa549f2be53dbb1d02c",
+      "packaged_sha256": "004f56ab359af6d0e5d0754d658d1d6b8aa4c148896bde0752c4d173403080e2",
+      "modified": true
+    },
+    {
+      "file": "slab/o80_candidates/outputs/A.out",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/native_terminal_2026-11-21/A/qe.out",
+      "source_sha256": "42097fd60148413a7486017fd7c60a7b20061f360ebf86450e62c7647fb0b3b2",
+      "packaged_sha256": "4f428c5d822c2f58e3c18b70adbc9157613cc9de994e64420e3750f5dc90dac6",
+      "modified": true
+    },
+    {
+      "file": "slab/o80_candidates/outputs/C.in",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/native_terminal_2026-11-21/C/actual.in",
+      "source_sha256": "55b992ddb871108a9fb267048c236a33fbf78ac18923841ca390182c0d0a1e4f",
+      "packaged_sha256": "fa02ff026df5a8999bdf83e6756967bf0e2791208343ec748d845f20196807a5",
+      "modified": true
+    },
+    {
+      "file": "slab/o80_candidates/outputs/C.out",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/native_terminal_2026-11-21/C/qe.out",
+      "source_sha256": "edcbf429979eb1e49f5d5792e4f4347a551848edf7df4955b75ec964d5d342d0",
+      "packaged_sha256": "a5a35ded0a7bfd995af5cf65a01a4cc60ce0b8e49a32c652bef39c04b6657bcf",
+      "modified": true
+    },
+    {
+      "file": "slab/o80_candidates/outputs/B.in",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/B-convergence-2026-11-21/handoff-7079756-2026-11-22/actual.in",
+      "source_sha256": "291feca20ce4820cb72bb83299607985213fac25c8c6aa57fe365c6d253c8dfe",
+      "packaged_sha256": "02fe0019a10ae5ab740830b2f05df49ebc486ba0c8d54244eb38c03784c93081",
+      "modified": true
+    },
+    {
+      "file": "slab/o80_candidates/outputs/B.out",
+      "source": "zno_proposal/analysis/zno_o80_qe_2026-11-20/B-convergence-2026-11-21/handoff-7079756-2026-11-22/qe.out",
+      "source_sha256": "031a287da02cde8f52080059c9bdcda4013d3bcda25e3f32359793d29f00922a",
+      "packaged_sha256": "f552d7553bb8de1d70fc6ad362b1b07280cbffc9a64c702bcfe055d9c59e072a",
+      "modified": true
+    }
+  ],
+  "transformations": [
+    "Normalize machine-specific paths in text records; preserve original source hashes.",
+    "Use repository-relative paths in scripts and QE inputs.",
+    "Trim unused gas/kinetics helper functions; make OVITO rendering optional.",
+    "Add PNG author metadata without changing pixels."
+  ]
+}

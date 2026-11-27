@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this computational archive and the original sources listed in THIRD_PARTY.md."
+title: "ZnO dissolution: preliminary calculations for a qualifying proposal"
+type: software
+authors:
+  - family-names: Hu
+    given-names: Harry Linfeng
+version: 0.1.0
+abstract: "Cage thermochemistry, published-kinetics reanalysis, periodic ZnO candidate structures, and a MACE pilot. Surface transition states remain unvalidated."
