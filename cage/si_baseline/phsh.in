@@ -1,0 +1,31 @@
+$comment
+Koskela 2022 SI s005.xyz, unchanged Cartesian geometry.
+Neutral singlet; all-electron baseline from job 7048504.
+$end
+
+$molecule
+0 1
+S         -2.29646       -0.00002       -0.06821
+C         -0.50695       -0.00001       -0.03389
+C          0.19441       -1.21218       -0.02055
+H         -0.34116       -2.15300       -0.03074
+C          1.59300       -1.21127        0.00623
+H          2.13445       -2.14838        0.01661
+C          2.29212        0.00002        0.01963
+H          3.37426        0.00002        0.04036
+C          1.59298        1.21127        0.00621
+H          2.13441        2.14840        0.01657
+C          0.19439        1.21217       -0.02058
+H         -0.34119        2.15298       -0.03079
+H         -2.37711        0.00037        1.33697
+$end
+
+$rem
+JOBTYPE          SP
+METHOD           B3LYP
+BASIS            def2-SVP
+SCF_CONVERGENCE  8
+THRESH           14
+MEM_TOTAL        6000
+XC_GRID          1
+$end
