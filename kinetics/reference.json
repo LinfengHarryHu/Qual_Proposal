@@ -1,0 +1,348 @@
+{
+  "source_doi": "10.1039/D1SC06667F",
+  "si_filename": "SC-013-D1SC06667F-s012.pdf",
+  "si_sha256": "ec14ab5c79462b2d9211a0f3ebf3d54489cf2493de77209b0f06b48eb9db5f51",
+  "extraction_method": "PDF vector marker centers; affine calibration from pairs of labeled ticks",
+  "fits": {
+    "S9": {
+      "panel": {
+        "figure": "S9",
+        "page": 6,
+        "x_ticks": [
+          [
+            54,
+            0
+          ],
+          [
+            58,
+            20000
+          ]
+        ],
+        "y_ticks": [
+          [
+            65,
+            0
+          ],
+          [
+            69,
+            0.08
+          ]
+        ],
+        "marker_range": [
+          76,
+          81
+        ],
+        "published_slope": 3.09e-06,
+        "x_quantity": "time_s",
+        "y_quantity": "released_complex_mol_per_L",
+        "temperature_c": 30
+      },
+      "n": 6,
+      "slope": 3.087433710393258e-06,
+      "intercept": 0.009748859285743545,
+      "r_squared": 0.9991378778041831,
+      "slope_standard_error": 4.534603798238315e-08,
+      "ols_only_95pct_slope_interval": [
+        2.9615329251969566e-06,
+        3.213334495589559e-06
+      ]
+    },
+    "S10": {
+      "panel": {
+        "figure": "S10",
+        "page": 6,
+        "x_ticks": [
+          [
+            99,
+            0
+          ],
+          [
+            102,
+            30000
+          ]
+        ],
+        "y_ticks": [
+          [
+            108,
+            0
+          ],
+          [
+            111,
+            0.15
+          ]
+        ],
+        "marker_range": [
+          117,
+          124
+        ],
+        "published_slope": 4.8e-06,
+        "x_quantity": "time_s",
+        "y_quantity": "released_complex_mol_per_L",
+        "temperature_c": 40
+      },
+      "n": 8,
+      "slope": 4.797702348177346e-06,
+      "intercept": 0.008547399095785689,
+      "r_squared": 0.9932317263341085,
+      "slope_standard_error": 1.6168559861630833e-07,
+      "ols_only_95pct_slope_interval": [
+        4.402071940763632e-06,
+        5.19333275559106e-06
+      ]
+    },
+    "S11": {
+      "panel": {
+        "figure": "S11",
+        "page": 7,
+        "x_ticks": [
+          [
+            52,
+            0
+          ],
+          [
+            54,
+            20000
+          ]
+        ],
+        "y_ticks": [
+          [
+            59,
+            0
+          ],
+          [
+            62,
+            0.15
+          ]
+        ],
+        "marker_range": [
+          68,
+          75
+        ],
+        "published_slope": 7.65e-06,
+        "x_quantity": "time_s",
+        "y_quantity": "released_complex_mol_per_L",
+        "temperature_c": 55
+      },
+      "n": 8,
+      "slope": 7.647504931945278e-06,
+      "intercept": 0.010524818837990682,
+      "r_squared": 0.9961426320000702,
+      "slope_standard_error": 1.9428036632811774e-07,
+      "ols_only_95pct_slope_interval": [
+        7.172118001132221e-06,
+        8.122891862758336e-06
+      ]
+    },
+    "S12": {
+      "panel": {
+        "figure": "S12",
+        "page": 7,
+        "x_ticks": [
+          [
+            93,
+            0
+          ],
+          [
+            95,
+            10000
+          ]
+        ],
+        "y_ticks": [
+          [
+            100,
+            0
+          ],
+          [
+            103,
+            0.15
+          ]
+        ],
+        "marker_range": [
+          109,
+          116
+        ],
+        "published_slope": 1.48e-05,
+        "x_quantity": "time_s",
+        "y_quantity": "released_complex_mol_per_L",
+        "temperature_c": 75
+      },
+      "n": 8,
+      "slope": 1.4840208221963352e-05,
+      "intercept": 0.013166128553442527,
+      "r_squared": 0.9941149601554892,
+      "slope_standard_error": 4.6614471900535937e-07,
+      "ols_only_95pct_slope_interval": [
+        1.3699593184680497e-05,
+        1.5980823259246208e-05
+      ]
+    },
+    "S14": {
+      "panel": {
+        "figure": "S14",
+        "page": 8,
+        "x_ticks": [
+          [
+            108,
+            -0.7
+          ],
+          [
+            112,
+            -0.3
+          ]
+        ],
+        "y_ticks": [
+          [
+            119,
+            -5.6
+          ],
+          [
+            122,
+            -5.0
+          ]
+        ],
+        "marker_range": [
+          128,
+          131
+        ],
+        "published_slope": -0.03,
+        "x_quantity": "log10_MeIm_mol_per_L",
+        "y_quantity": "log10_rate_mol_per_L_per_s",
+        "temperature_c": 40
+      },
+      "n": 4,
+      "slope": -0.028131458125814496,
+      "intercept": -5.314566126570973,
+      "r_squared": 0.010377952407360428,
+      "slope_standard_error": 0.19424779128190692,
+      "ols_only_95pct_slope_interval": [
+        -0.8639122475223577,
+        0.8076493312707287
+      ]
+    },
+    "S15": {
+      "panel": {
+        "figure": "S15",
+        "page": 9,
+        "x_ticks": [
+          [
+            58,
+            -0.7
+          ],
+          [
+            62,
+            -0.3
+          ]
+        ],
+        "y_ticks": [
+          [
+            69,
+            -5.8
+          ],
+          [
+            73,
+            -5.0
+          ]
+        ],
+        "marker_range": [
+          80,
+          83
+        ],
+        "published_slope": -0.12,
+        "x_quantity": "log10_PhSH_mol_per_L",
+        "y_quantity": "log10_rate_mol_per_L_per_s",
+        "temperature_c": 40
+      },
+      "n": 4,
+      "slope": -0.117612099429113,
+      "intercept": -5.401390926562519,
+      "r_squared": 0.3221945714923045,
+      "slope_standard_error": 0.1206230808037084,
+      "ols_only_95pct_slope_interval": [
+        -0.6366113273135472,
+        0.4013871284553212
+      ]
+    }
+  },
+  "75c_si_crosscheck": {
+    "table_s1_mol_per_L_per_s": 1.48e-06,
+    "figure_s12_caption_mol_per_L_per_s": 1.48e-05,
+    "digitized_slope_over_table": 10.027167717542804
+  },
+  "eyring_consistency_check": {
+    "temperature_K": [
+      303.15,
+      313.15,
+      328.15,
+      348.15
+    ],
+    "printed_rate_column_mol_per_L_per_s": [
+      3.09e-06,
+      4.8e-06,
+      7.65e-06,
+      1.48e-06
+    ],
+    "back_calculated_75c_rate_mol_per_L_per_s": 1.4866219291983494e-05,
+    "fit_cases": {
+      "digitized_figure_slopes": {
+        "ordinates_J_per_mol_K": [
+          -350.55749805369317,
+          -347.16235111542744,
+          -343.67481814079673,
+          -338.6545603590001
+        ],
+        "apparent_delta_H_dagger_kJ_per_mol": 27.445041737852822,
+        "apparent_delta_S_dagger_J_per_mol_K": -259.8519421528834,
+        "r_squared": 0.9977375619044335
+      },
+      "literal_table_rate_column": {
+        "ordinates_J_per_mol_K": [
+          -350.55058990340615,
+          -347.15837021669546,
+          -343.67210591414977,
+          -357.8218759082213
+        ],
+        "apparent_delta_H_dagger_kJ_per_mol": -15.583599279385998,
+        "apparent_delta_S_dagger_J_per_mol_K": -398.15573569476476,
+        "r_squared": 0.2280312861209693
+      },
+      "printed_table_ordinate_column": {
+        "ordinates_J_per_mol_K": [
+          -350.54,
+          -347.14,
+          -343.66,
+          -338.64
+        ],
+        "apparent_delta_H_dagger_kJ_per_mol": 27.43273062654652,
+        "apparent_delta_S_dagger_J_per_mol_K": -259.8728358964333,
+        "r_squared": 0.9976830624495254
+      }
+    }
+  },
+  "steady_state_model": {
+    "origin_of_flux": "S10 OLS slope",
+    "rate_status": "selected ratios with matching flux; neither elementary rate nor site density identified",
+    "examples": [
+      {
+        "chosen_k_water_over_k_release": 0.1,
+        "k_water_over_nu": 1.1,
+        "k_release_over_nu": 11.0,
+        "predicted_post_water_surface_fraction": 0.09090909090909091,
+        "product_flux_mol_per_L_per_s": 4.797702348177347e-06
+      },
+      {
+        "chosen_k_water_over_k_release": 1.0,
+        "k_water_over_nu": 2.0,
+        "k_release_over_nu": 2.0,
+        "predicted_post_water_surface_fraction": 0.5,
+        "product_flux_mol_per_L_per_s": 4.797702348177346e-06
+      },
+      {
+        "chosen_k_water_over_k_release": 10.0,
+        "k_water_over_nu": 10.999999999999996,
+        "k_release_over_nu": 1.1,
+        "predicted_post_water_surface_fraction": 0.9090909090909091,
+        "product_flux_mol_per_L_per_s": 4.797702348177347e-06
+      }
+    ]
+  }
+}
