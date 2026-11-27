@@ -1,0 +1,19 @@
+{
+  "release1": {
+    "job": "7055418",
+    "input_sha256": "0b586e32930e541fd1841a776bf8a6239b260f859f018244439ffcfec5998bb3",
+    "output_sha256": "da5e02ad8485135849501fe4ebc5bfb6078b6196727df29d107d9f7690c16ecb",
+    "energy_eV": -417986.59852469026,
+    "force_eV_per_A": 10.833452051916657
+  },
+  "release3": {
+    "job": "7055961",
+    "input_sha256": "20064beb6a651e62af0167818738cb817e9525fc1ea18334be2e8abbc0fd8841",
+    "output_sha256": "589eb13df42222609f9502c4f3b76587921c9d075480d550294a198fbc954e84",
+    "energy_eV": -417990.06806283275,
+    "force_eV_per_A": -0.12501707333810622
+  },
+  "relative_energy_eV": -3.4695381424971856,
+  "Lz_A": 27.3208999634,
+  "n_projected_atoms": 49
+}

@@ -1,0 +1,58 @@
+{
+  "energy_screen_eV": 0.05,
+  "force_screen_eV_per_A": 0.2,
+  "complex_atom_count": 49,
+  "direction": [
+    0.0,
+    0.0,
+    1.0
+  ],
+  "results": {
+    "Lz27": {
+      "Lz_A": 27.3208999634,
+      "release3_minus_release1_eV": -3.4695381424971856,
+      "frames": {
+        "release1": {
+          "energy_eV": -417986.59852469026,
+          "force_eV_per_A": 10.833452051916657,
+          "scf_iterations": 22,
+          "input_sha256": "0b586e32930e541fd1841a776bf8a6239b260f859f018244439ffcfec5998bb3",
+          "output_sha256": "da5e02ad8485135849501fe4ebc5bfb6078b6196727df29d107d9f7690c16ecb"
+        },
+        "release3": {
+          "energy_eV": -417990.06806283275,
+          "force_eV_per_A": -0.12501707333810622,
+          "scf_iterations": 27,
+          "input_sha256": "20064beb6a651e62af0167818738cb817e9525fc1ea18334be2e8abbc0fd8841",
+          "output_sha256": "589eb13df42222609f9502c4f3b76587921c9d075480d550294a198fbc954e84"
+        }
+      }
+    },
+    "Lz37": {
+      "Lz_A": 37.3208999634,
+      "release3_minus_release1_eV": -3.4701523035182618,
+      "relative_energy_shift_eV": -0.0006141610210761428,
+      "frames": {
+        "release1": {
+          "energy_eV": -417986.5174331266,
+          "force_eV_per_A": 10.848558826899849,
+          "scf_iterations": 26,
+          "input_sha256": "9a9c40297e46e1da346c4cb9cfa5daa0d5f434516b329ae005859c4733935f02",
+          "output_sha256": "609592dda50f097879c9c84cec28ff0bfd090d94eb44d64ff49df1d35b0277ca",
+          "force_shift_eV_per_A": 0.015106774983191684,
+          "sign_reversed": false
+        },
+        "release3": {
+          "energy_eV": -417989.9875854301,
+          "force_eV_per_A": -0.14603070121230668,
+          "scf_iterations": 28,
+          "input_sha256": "ad742abc07c0aac78e9b9b80494625b104ea1bb1220ef1cab727c5aec9ada6ac",
+          "output_sha256": "d5c646e40f5f43cb15341944b1f13d837e0448cf8e49c852ae351107365df924",
+          "force_shift_eV_per_A": -0.02101362787420047,
+          "sign_reversed": false
+        }
+      },
+      "screen_flagged": false
+    }
+  }
+}
