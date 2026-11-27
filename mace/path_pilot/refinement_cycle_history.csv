@@ -1,0 +1,8 @@
+arm,job,completed_neb_cycles,completed_image_qe_evaluations,max_internal_neb_residual_eV_A,target_eV_A,reached_target
+linear,7068265_0,1,4,9.824867,0.05,False
+linear,7068265_0,2,6,4.498987,0.05,False
+linear,7068265_0,3,8,3.260001,0.05,False
+mace,7068265_1,1,4,0.358553,0.05,False
+mace,7068265_1,2,6,0.233845,0.05,False
+mace,7068265_1,3,8,0.254423,0.05,False
+mace,7068265_1,4,10,0.209763,0.05,False
