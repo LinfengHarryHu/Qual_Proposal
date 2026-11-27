@@ -1,0 +1,23 @@
+{
+  "temperature_K": 303.15,
+  "formation": {
+    "e_kj_mol": 120.02678753707121,
+    "zpe_kj_mol": -3.993961676861076,
+    "thermal_h_minus_zpe_kj_mol": 7.260038074567142,
+    "minus_ts_kj_mol": 2.856714850386666,
+    "symmetry_adjustment_kj_mol": 1.747097807406372,
+    "standard_state_kj_mol": 0.0,
+    "g_correction_kj_mol": 7.869889055498987,
+    "g_kj_mol": 127.8966765925702,
+    "difference_vs_published_gas_30c_kj_mol": 25.096676592570205,
+    "geometry_status": "Historical maximum-gradient criterion met at a saved frame; Q-Chem optimizer did not report termination"
+  },
+  "difference_vs_prior_checkpoint_kj_mol": 5.431574099561416,
+  "entropy_only_floor_cm-1": 50.0,
+  "entropy_floor_shift_kj_mol": 1.9196842594854218,
+  "g_with_50cm_entropy_floor_kj_mol": 129.81636085205562,
+  "state3_gradient_eh_bohr": 0.000273,
+  "state3_fd_job": 7117012,
+  "state3_fd_completed": 234,
+  "calculator": "snapshots/2026-11-25_181340_PST/thermochemistry.json"
+}

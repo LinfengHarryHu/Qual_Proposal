@@ -1,0 +1,117 @@
+{
+  "temperature_K": 303.15,
+  "thermal_source": "archive/zno_proposal/analysis/koskela_fig4_pcm_30c_2026-11-24/snapshots/2026-11-25_181340_PST/thermochemistry.json",
+  "thermal_source_sha256": "979130e670b79c2a76e669b28c026180a5949bc292978b28c53c8faa52506c72",
+  "method": "B3LYP/def2-SVP with D3(BJ), ATM off, C-PCM acetonitrile",
+  "species_order": [
+    "state2",
+    "state3",
+    "phsh",
+    "water"
+  ],
+  "species": {
+    "state2": {
+      "sign": -1,
+      "source_xyz": "archive/zno_proposal/analysis/koskela_fig4_pcm_30c_2026-11-24/snapshots/2026-11-25_081708_PST/runs/state2_lower_pcm-7114103/optimized.xyz",
+      "source_xyz_sha256": "8ee224997bc6275e77e5a28505a803fc64ef75cdd249ad1e0b328ebb9b4f088b",
+      "input_sha256": "2eab6db3d66553d5b34c96176657f19bb6887b0b4a3a4f2502ca98becea8e5f9",
+      "atoms": {
+        "Zn": 12,
+        "O": 12,
+        "S": 1,
+        "C": 10,
+        "H": 12,
+        "N": 2
+      },
+      "frozen_in_optimization": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "baseline_e_eh": -23148.68596432,
+      "g_correction_kj_mol": 497.3261357993054
+    },
+    "state3": {
+      "sign": 1,
+      "source_xyz": "archive/zno_proposal/analysis/koskela_fig4_pcm_30c_2026-11-24/fd_state3_final/reference.xyz",
+      "source_xyz_sha256": "709c252e6158204a8d58648cb3039d18b1d460fb6dc89bfff38ba09465bd4bd0",
+      "input_sha256": "c4b68883ac34206703798e0a4b814c36d8addafadc4e8e788192b53de643cda4",
+      "atoms": {
+        "Zn": 12,
+        "O": 11,
+        "S": 2,
+        "C": 16,
+        "H": 16,
+        "N": 2
+      },
+      "frozen_in_optimization": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "baseline_e_eh": -23702.445291911,
+      "g_correction_kj_mol": 677.421949293398
+    },
+    "phsh": {
+      "sign": -1,
+      "source_xyz": "archive/zno_proposal/analysis/koskela_fig4_pcm_30c_2026-11-24/snapshots/2026-11-25_181340_PST/runs/phsh_retry2-7112163/optimized.xyz",
+      "source_xyz_sha256": "9c0897d4a5184619c4e1a172eb8f4db82343f24c23925464ff14f128628c0cfa",
+      "input_sha256": "6e2b185343e4e301e32ca017e9d60b92f74353f8a35ccb04a7c3f34740cec616",
+      "atoms": {
+        "S": 1,
+        "C": 6,
+        "H": 6
+      },
+      "frozen_in_optimization": [],
+      "baseline_e_eh": -630.1683373,
+      "g_correction_kj_mol": 188.58552096258254
+    },
+    "water": {
+      "sign": 1,
+      "source_xyz": "archive/zno_proposal/analysis/koskela_fig4_pcm_30c_2026-11-24/snapshots/2026-11-25_181340_PST/runs/water-7111917/optimized.xyz",
+      "source_xyz_sha256": "357e1c73c7bb9b88547c9f5626610e05aa145da44c8cd36ca322594781fb2c20",
+      "input_sha256": "7c33926ed4da77b49784cb56298fd800f657eefb52da1b60f9a41f9305d30f52",
+      "atoms": {
+        "H": 2,
+        "O": 1
+      },
+      "frozen_in_optimization": [],
+      "baseline_e_eh": -76.36329392,
+      "g_correction_kj_mol": 16.3595965239889
+    }
+  }
+}

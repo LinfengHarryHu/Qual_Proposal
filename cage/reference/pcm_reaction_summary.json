@@ -1,0 +1,25 @@
+{
+  "verified_at_Los_Angeles": "2026-11-26T16:16:58-08:00",
+  "job_array": 7132544,
+  "temperature_K": 303.15,
+  "reaction": "state2 + PhSH -> state3 + H2O",
+  "pcm_baseline_no_d3_delta_G_kj_mol": 127.8966765925702,
+  "pcm_native_d3bj_delta_E_kj_mol": 74.93407015785156,
+  "pcm_d3bj_shift_kj_mol": -45.09265857640986,
+  "pcm_reused_thermal_correction_kj_mol": 7.869889055498987,
+  "pcm_d3bj_delta_G_estimate_kj_mol": 82.80395921335055,
+  "gas_d3bj_same_optimized_geometry_delta_G_estimate_kj_mol": 113.8901284539723,
+  "gas_d3_source": "archive/zno_proposal/analysis/koskela_2to3_75c_2026-11-17/dispersion_75c_fixed_geometry.json",
+  "gas_d3_source_sha256": "a2f7d22aa5058f2c9513b14e3c47b069d0a8b97ee44084fc40ef3e420636e9fb",
+  "gas_d3bj_SI_geometry_transferred_thermal_delta_G_estimate_kj_mol": 111.4859793729803,
+  "published_gas_delta_G_kj_mol": 102.8,
+  "pcm_minus_own_gas_kj_mol": -31.086169240621743,
+  "pcm_minus_published_gas_kj_mol": -19.996040786649445,
+  "qualifications": [
+    "D3(BJ) single points on archived B3LYP geometries with archived B3LYP vibrational thermochemistry.",
+    "State 3 met the historical gradient criterion but its optimizer did not terminate normally.",
+    "The own-gas comparison uses verified archived simple-dftd3 corrections at gas-optimized coordinates.",
+    "The SI-coordinate gas estimate transfers thermal terms from separately optimized geometries.",
+    "The published Table 1 does not explicitly resolve whether its energies include D3(BJ)."
+  ]
+}
