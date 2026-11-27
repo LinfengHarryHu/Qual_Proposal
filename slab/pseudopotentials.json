@@ -1,0 +1,35 @@
+{
+  "library": "SSSP 1.3.0 PBE efficiency",
+  "files": [
+    {
+      "file": "H.pbe-rrkjus_psl.1.0.0.UPF",
+      "sha256": "27f8a7e87851d59a2698237d6ab4578d62950640f4f175781b015a0ce731f962",
+      "bytes": 227296
+    },
+    {
+      "file": "Zn_pbe_v1.uspp.F.UPF",
+      "sha256": "7710c776159022cdfa14188f04942712811d9a24ad0e74db5ce7c3bdfb95dbbf",
+      "bytes": 645094
+    },
+    {
+      "file": "N.pbe-n-radius_5.UPF",
+      "sha256": "9efee6eb6465c9020af3c8f395fa837810e8f1263ac6cfd52e437a170f8f6e9a",
+      "bytes": 632448
+    },
+    {
+      "file": "C.pbe-n-kjpaw_psl.1.0.0.UPF",
+      "sha256": "9900d1efd50b9848e31849f39094b33348486b400ee51e0f3922f716137cf3d7",
+      "bytes": 911843
+    },
+    {
+      "file": "O.pbe-n-kjpaw_psl.0.1.UPF",
+      "sha256": "7c4b6ed541f83d0afdf5c1d3a8c611340f073f3e2b11e95b7963bb2ee26929aa",
+      "bytes": 930566
+    },
+    {
+      "file": "s_pbe_v1.4.uspp.F.UPF",
+      "sha256": "84ad731864187f416f714e961c3ad2f04dcbf811618e724d277885c18cb470df",
+      "bytes": 582972
+    }
+  ]
+}
